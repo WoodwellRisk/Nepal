@@ -16,9 +16,9 @@ General Sessions will be held on Sunday September 4, 2022 and Saturday September
 
 A pdf of planed modules can be found here.
 
-##### Module 1	Introduction (Bishal Bhardwaj) #####
-##### Module 2	Climate change risk and mountain development (Prof. Rajesh K Rai, Ph.D.) #####
-##### Module 3a*	Components of Risk & Reading Maps (Darcy Glenn) #####
+##### Module 1  Introduction (Bishal Bhardwaj) #####
+##### Module 2  Climate change risk and mountain development (Prof. Rajesh K Rai, Ph.D.) #####
+##### Module 3a*  Components of Risk & Reading Maps (Darcy Glenn) #####
 Discuss the components of risk
 -	Hazard
 -	Vulnerability
@@ -26,7 +26,7 @@ Discuss the components of risk
 Look at maps that show the 3 components of risk
 -	Identify components
 -	Talk about what is important on the maps
-##### Module 3b*	Introduce What Climate Models Can and Cannot Do (Darcy Glenn) #####
+##### Module 3b*  Introduce What Climate Models Can and Cannot Do (Darcy Glenn) #####
 Importance of Ensembles
 Temporal Resolutions
 -	If timeframes are too short the results will not be accurate
@@ -37,8 +37,8 @@ Spatial Resolutions
 -	Mountains are more difficult than flat plains
 Very good at rates of change
 -	Basic methodology-conceptual
-##### Module 3c* 	Risk and Social Communication (Speaker To Be Decided) #####
-##### Module 4	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) #####
+##### Module 3c*  Risk and Social Communication (Speaker To Be Decided) #####
+##### Module 4  Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) #####
 
 
 ### Repository {-}
