@@ -12,9 +12,34 @@ General Sessions will be held on Sunday September 4, 2022 and Saturday September
 
 **- For those not comfortable in English: Consider downloading the General Session slideshow pdf.** The speakers notes are written out in English as a form of subtitles. There will also be Nepali speakers on the call who can translate.
 
-## Github Jargon {-}
+## Planned Modules {-}
 
-With a language all its own, this quick guide to common terms of GitHub and Git will have you collaborating in no time.
+A pdf of planed modules can be found here.
+
+##### Module 1	Introduction (Bishal Bhardwaj) #####
+##### Module 2	Climate change risk and mountain development (Prof. Rajesh K Rai, Ph.D.) #####
+##### Module 3a*	Components of Risk & Reading Maps (Darcy Glenn) #####
+Discuss the components of risk
+-	Hazard
+-	Vulnerability
+-	Capacity
+Look at maps that show the 3 components of risk
+-	Identify components
+-	Talk about what is important on the maps
+##### Module 3b*	Introduce What Climate Models Can and Cannot Do (Darcy Glenn) #####
+Importance of Ensembles
+Temporal Resolutions
+-	If timeframes are too short the results will not be accurate
+-	Best to look at data over time
+-	30 years is best
+Spatial Resolutions
+-	Complex landscapes do better with high resolution
+-	Mountains are more difficult than flat plains
+Very good at rates of change
+-	Basic methodology-conceptual
+##### Module 3c* 	Risk and Social Communication (Speaker To Be Decided) #####
+##### Module 4	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) #####
+
 
 ### Repository {-}
 A repository is the most basic element of Git and GitHub. Imagine it as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history.
