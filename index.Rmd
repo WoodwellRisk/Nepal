@@ -1,6 +1,6 @@
 ---
-title: "[Understanding Climate Risk Assessments Workshops](https://github.com/WoodwellRisck/Nepal)"
-author: "Darcy Glenn (dglenn@woodwellclimate.org)"
+title: "Transfer of Knowledge: Reading and Creating Risk Assessment Maps"
+author: "Institute of Forestry and NRM, Tribhuvan University and Woodwell Climate Research Center"
 site: bookdown::bookdown_site
 documentclass: book
 #output:
@@ -10,43 +10,51 @@ documentclass: book
 Email dglenn@woodwellclimate.org with any questions!      
 
 
-# Open Science Recap
+# Linking risk assessments to their practical use
+Risk assessment maps are useful and increasingly common, however the technical knowledge needed to interpret these maps is a potential barrier to widespread implementation. Using risk maps to inform climate policy requires skills in map interpretation and a baseline understanding of uncertainty inherent in climate simulations. Therefore, fostering the right skillset to correctly read and interpret maps of climate risk factors is a crucial aspect of risk science communication. To address this need, skill transfer and capacity bundling are an integral part of this study. To address this need, Woodwell Climate Research Centre and School of Forestry and NRM, Tribhuvan University intend to engage with students/academics who are interested in learning the risk mapping process and the basic skills needed for interpretation.
+
+
 ![](open_science.jpeg)
        
 *From Nolan's [March 27 SOB](https://prezi.com/view/5DEUVwi1GCEmFAJ5eZce/)*
 
-### Open Data {-}
+## Goals of training {-}
 
-The idea that some data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control.
+-	Participants are able to work with climate model data and create their own maps and visualizations.
+-	Participants are able to communicate how climate change will impact Province 1. 
+-	Participants are able to use the data to help tell their story.
 
-### Open Source {-}
+## Learning outcome {-}
 
-Open-source software is a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner.
+After the completion of the program, participants will be able to discuss risk maps and describe the process to their friends and community.
 
-### Open Methodology {-}
+#####Technical sessions ONLY - students will receive: #####
+Regional climate model data for Nepal
+•	Maximum temperature (daily) 1990-2019 and 2040-2069
+•	Minimum temperature (daily) 1990-2019 and 2040-2069
+•	Maximum wetbulb temperature (daily) 1990-2019 and 2040-2069
+•	Precipitation (daily) 1990-2019 and 2040-2069
+Example codes that students can use to further explore their own climate risk questions
 
-Open methodology is conducted in the spirit of free and open-source software. Much like open-source schemes that are built around a source code that is made public, the central theme of open research is to make clear accounts of the methodology freely available via the internet, along with any data or results extracted or derived from them. This permits a massively distributed collaboration, and one in which anyone may participate at any level of the project.
 
-## Open Science in Practice {-}
+## Participant Commitment {-}
 
-Two commonly used tools that we will cover today are:
+Participants are expected to attend all courses. We request participants who cannot attend all classes not to enroll in the course to give opportunity to other interested participants.
 
-![](https://www.ateamindia.com/wp-content/uploads/2019/03/maxresdefault.jpg){width=250px}
+##### Technical sessions ONLY - tools needed/how to ensure platform access: #####
+Google Earth Engine
+-	Requires a Google account
+-	Free to access, but requires signing up beforehand
 
-... for storing and sharing code and datasets, easy collaboration, and version control
+## Future Participants {-}
 
-and
+### Why wasn't I selected to join a session? {-}
+There was an overwhelming interest in Understanding Climate Models. Unfortunately, we were unable to include everyone who expressed interest. The session schedule was determined based on the days that corresponded with most people’s reported schedule. From there participants were randomly selected using a random number generator. We understand that this is not an ideal situation and are looking for ways to ensure everyone has the opportunity to participate in these workshops.
 
-![](https://bookdown.org/yihui/bookdown/images/logo.png){width=200px}
+### What opprotunities will be available in the future? {-}
 
-... for writing books, reports, and software documentation
+All sessions will be recorded and the course materials will be available via GitHub. 
 
-using
+We plan on having additional sessions in the future. If you wish to be informed when future sessions are annouced please signup here. If you already signed up for the September sessions but were not placed in your prefered session, your email is already on the list of people to contact first when we have more information. 
 
-![](https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png){width=200px}
-
-#### Disclaimer: {-}
-
-*We are by no means experts on the tools we're covering. We will be your guides and we can learn together.*
-
-![Let's get started!](https://miro.medium.com/max/1400/0*YawwWWRvQDU4ls2w.jpg){width=150}
+Participants from the Institute of Forestry will also be able to act as a local resource.
