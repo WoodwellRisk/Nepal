@@ -26,64 +26,60 @@ A pdf of planed modules can be found here.
 
 
 ### Day 1 {-}
+
 ##### Module 1	Ensure All Students Able to Log On (Darcy Glenn) #####
 ##### Module 2	Introduction to Google Earth Engine (Darcy Glenn) #####
 Upload files from computer & catalogue
 Basic commands
 Display data
-Calculate number of days above 25oC (Demonstration)
--	Students can choose from 25oC, 30oC, 35oC, 40oC, or 45oC
+Calculate number of days above 25^{o}C (Demonstration)
+-	Students can choose from 25^{o}C, 30^{o}C, 35^{o}C, 40^{o}C, or 45^{o}C
 ##### Module 3	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) #####
-
 
 ### Day 2 {-}
 
+##### Module 1a*	Using daily data: Projecting extreme heat days (Darcy Glenn) #####
+Importance of Ensembles
+Temporal Resolutions
+Review projection methodology concept
+Wetbulb temperature: Heat & humidity measurement that can be related to health
+Use Google Earth Engine to project days above 28oC wetbulb 
+Export data
+##### Module 1b*	Using daily data: Projecting extreme rainfall (Darcy Glenn) #####
+Importance of Ensembles
+Temporal Resolutions
+##### Module 1c*	Using daily data: Projecting night temperatures (Darcy Glenn) #####
+Temporal Resolutions
+Review projection methodology concept
+Minimum temperature: When the nighttime temperature is too high, our bodies can’t recover during a heatwave
+Use Google Earth Engine to project changes to heat waves with high nightime temperatures
+Export data
+##### Module 1d*	Using daily data: Who is affected by high temperatures? (Darcy Glenn) #####
+Maximum temperature: Thresholds as seen in module, but now with daily data
+Import information from Google Earth Engine’s Catalogue to see who will be affected
+Export data
+##### Module 2	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) #####
 
 ### Day 3 {-}
+
+##### Module 1	Student led map making ##### 
+##### Module 2	How risk mapping skills can help society (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) ##### 
+##### Module 3	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) ##### 
 
 
 ### Day 4 {-}
 
-
-
-
-##### Module 1  Introduction (Bishal Bhardwaj) #####
-
-##### Module 2  Climate change risk and mountain development (Prof. Rajesh K Rai, Ph.D.) #####
-
-##### Module 3a*  Components of Risk & Reading Maps (Darcy Glenn) #####
-
-Discuss the components of risk
--	Hazard
--	Vulnerability
--	Capacity
-
-Look at maps that show the 3 components of risk
--	Identify components
--	Talk about what is important on the maps
-
-##### Module 3b*  Introduce What Climate Models Can and Cannot Do (Darcy Glenn) #####
-
-Importance of Ensembles
-
-Temporal Resolutions
--	If timeframes are too short the results will not be accurate
--	Best to look at data over time
--	30 years is best
-
-Spatial Resolutions
--	Complex landscapes do better with high resolution
--	Mountains are more difficult than flat plains
-
-Very good at rates of change
--	Basic methodology-conceptual
-
-##### Module 3c*  Risk and Social Communication (Speaker To Be Decided) #####
-
-##### Module 4  Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) #####
+##### Module 1	Presentations ##### 
+##### Module 2	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) ##### 
 
 ## Powerpoints {-}
+
 Powerpoints are coming soon.
 
+## Datasets {-}
+
+Datasets are coming soon.
+
 ## Videos {-}
+
 General Sessions will be recorded and posted here.
