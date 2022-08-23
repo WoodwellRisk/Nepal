@@ -1,13 +1,13 @@
 ---
-title: "[Code Sharing Guide](https://github.com/whrc/Code-Sharing-Guide)"
-author: "Charlotte Rivard (crivard@whrc.org) and Nolan Kitts (nkitts@whrc.org)"
+title: "[Understanding Climate Risk Assessments Workshops](https://github.com/WoodwellRisck/Nepal)"
+author: "Darcy Glenn (dglenn@woodwellclimate.org)"
 site: bookdown::bookdown_site
 documentclass: book
 #output:
   #bookdown::gitbook: default
 ---
 
-Email crivard@whrc.org or nkitts@whrc.org with any questions!      
+Email dglenn@woodwellclimate.org with any questions!      
 
 
 # Open Science Recap
