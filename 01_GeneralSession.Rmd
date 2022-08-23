@@ -1,12 +1,16 @@
-# Github Tutorial
+# General Sessions
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+General Sessions will be held on Sunday September 4, 2022 and Saturday September 10, 2022.
 
-## Getting Started {-}
+## Before the General Session {-}
 
-[Create a GitHub account](https://github.com/)
+**- Everyone: Please fill out your introdutory form.** The workshops will be recorded to help with future learning. Some stills from the sessions may be used for future marketing.
 
-[Download GitHub Desktop](https://desktop.github.com/)
+**- Everyone: Ensure you are able to log onto Zoom.** Your calendar hold with the Zoom link will be in your inbox shortly.
+
+**- Technical Sessions Only: Sign up for [Google Earth Engine](https://earthengine.google.com/signup/)** Please do this as soon as possible! Sometimes it takes longer than expected to go through. It is free and requires a Google account. Instructions can be found [here](https://www.linkedin.com/pulse/step-by-step-create-your-google-earth-engine-account-khang-vu-tien). Consider creating it "For myself", if you don't already have an account. 
+
+**- For those not comfortable in English: Consider downloading the General Session slideshow pdf.** The speakers notes are written out in English as a form of subtitles. There will also be Nepali speakers on the call who can translate.
 
 ## Github Jargon {-}
 
