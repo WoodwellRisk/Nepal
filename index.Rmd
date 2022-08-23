@@ -5,6 +5,11 @@ site: bookdown::bookdown_site
 documentclass: book
 #output:
   #bookdown::gitbook: default
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+    encoding=encoding,
+    output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
 
 # Linking risk assessments to their practical use
