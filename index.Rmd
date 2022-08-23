@@ -3,13 +3,8 @@ title: "Transfer of Knowledge: Reading and Creating Risk Assessment Maps"
 author: "Institute of Forestry and NRM, Tribhuvan University and Woodwell Climate Research Center"
 site: bookdown::bookdown_site
 documentclass: book
-#output:
-  #bookdown::gitbook: default
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
-    encoding=encoding,
-    output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+output:bookdown::gitbook: default
+
 ---
 
 # Linking risk assessments to their practical use
