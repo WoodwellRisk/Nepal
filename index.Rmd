@@ -3,50 +3,64 @@ title: "Transfer of Knowledge: Reading and Creating Risk Assessment Maps"
 author: "Institute of Forestry and NRM, Tribhuvan University and Woodwell Climate Research Center"
 site: bookdown::bookdown_site
 documentclass: book
-output:bookdown::gitbook: default
-
+#output:
+  #bookdown::gitbook: default
 ---
+# Intro 
 
-# Linking risk assessments to their practical use
-Risk assessment maps are useful and increasingly common, however the technical knowledge needed to interpret these maps is a potential barrier to widespread implementation. Using risk maps to inform climate policy requires skills in map interpretation and a baseline understanding of uncertainty inherent in climate simulations. Therefore, fostering the right skillset to correctly read and interpret maps of climate risk factors is a crucial aspect of risk science communication. To address this need, skill transfer and capacity bundling are an integral part of this study. To address this need, Woodwell Climate Research Centre and School of Forestry and NRM, Tribhuvan University intend to engage with students/academics who are interested in learning the risk mapping process and the basic skills needed for interpretation.
+![](TU_and_Woodwell.jpg)
+
+## Linking risk assessments to their practical use {-}
+Risk assessment maps are useful and increasingly common, however the technical knowledge needed to interpret these maps is a potential barrier to widespread implementation. Using risk maps to inform climate policy requires skills in map interpretation and a baseline understanding of uncertainty inherent in climate simulations. Therefore, fostering the right skill set to correctly read and interpret maps of climate risk factors is a crucial aspect of risk science communication. To address this need, skill transfer and capacity bundling are an integral part of this study. To address this need, Woodwell Climate Research Center and School of Forestry and NRM, Tribhuvan University intend to engage with students/academics who are interested in learning the risk mapping process and the basic skills needed for interpretation.
 
 ## Goals of training {-}
 
 -	Participants are able to work with climate model data and create their own maps and visualizations.
+
 -	Participants are able to communicate how climate change will impact Province 1. 
+
 -	Participants are able to use the data to help tell their story.
 
 ## Learning outcome {-}
 
 After the completion of the program, participants will be able to discuss risk maps and describe the process to their friends and community.
 
-#####Technical sessions ONLY - students will receive: #####
-Regional climate model data for Nepal
-•	Maximum temperature (daily) 1990-2019 and 2040-2069
-•	Minimum temperature (daily) 1990-2019 and 2040-2069
-•	Maximum wetbulb temperature (daily) 1990-2019 and 2040-2069
-•	Precipitation (daily) 1990-2019 and 2040-2069
-Example codes that students can use to further explore their own climate risk questions
+**Technical sessions ONLY** - students will receive:
 
+* Regional climate model data for Nepal
+
+  +	Maximum temperature (daily) 1990-2019 and 2040-2069
+
+  +	Minimum temperature (daily) 1990-2019 and 2040-2069
+
+  +	Maximum wet-bulb temperature (daily) 1990-2019 and 2040-2069
+
+  +	Precipitation (daily) 1990-2019 and 2040-2069
+
+* Example codes that students can use to further explore their own climate risk questions
 
 ## Participant Commitment {-}
 
 Participants are expected to attend all courses. We request participants who cannot attend all classes not to enroll in the course to give opportunity to other interested participants.
 
-##### Technical sessions ONLY - tools needed/how to ensure platform access: #####
-Google Earth Engine
--	Requires a Google account
--	Free to access, but requires signing up beforehand
+**Technical sessions ONLY** - tools needed/how to ensure platform access:
+
+* Google Earth Engine
+
+  +	Requires a Google account
+
+  +	Free to access, but requires signing up beforehand
 
 ## Future Participants {-}
 
 ### Why wasn't I selected to join a session? {-}
-There was an overwhelming interest in Understanding Climate Models. Unfortunately, we were unable to include everyone who expressed interest. The session schedule was determined based on the days that corresponded with most people’s reported schedule. From there participants were randomly selected using a random number generator. We understand that this is not an ideal situation and are looking for ways to ensure everyone has the opportunity to participate in these workshops.
+
+There was an overwhelming interest in Understanding Climate Models. Unfortunately, we were unable to include everyone who expressed interest. The session schedule was determined based on the days that corresponded with most people’s reported schedule. From there participants were randomly selected using a [random number generator](https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php). We understand that this is not an ideal situation and are looking for ways to ensure everyone has the opportunity to participate in these workshops.
 
 ### What opprotunities will be available in the future? {-}
 
 All sessions will be recorded and the course materials will be available via GitHub. 
 
-We plan on having additional sessions in the future. If you wish to be informed when future sessions are annouced please signup here. If you already signed up for the September sessions but were not placed in your prefered session, your email is already on the list of people to contact first when we have more information. 
+We plan on having additional sessions in the future. If you wish to be informed when future sessions are announced please signup [here](https://forms.gle/RrYgas4oGmTZKpDP7). If you already signed up for the September sessions but were not placed in your preferred session, your email is already on the list of people to contact first when we have more information.
 
 Participants from the Institute of Forestry will also be able to act as a local resource.

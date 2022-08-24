@@ -1,0 +1,68 @@
+# General Sessions
+
+General Sessions will be held on Sunday September 4, 2022 and Saturday September 10, 2022.
+
+## Before the General Session {-}
+
+**- Everyone: Please fill out your introductory form.** The workshops will be recorded to help with future learning. Some stills from the sessions may be used for future marketing.
+
+* **Everyone: Ensure you are able to log onto Zoom.** Your calendar hold with the Zoom link will be in your inbox shortly.
+
+* **Technical Sessions Only: Sign up for [Google Earth Engine](https://earthengine.google.com/signup/).** Please do this as soon as possible! Sometimes it takes longer than expected to go through. It is free and requires a Google account. Instructions can be found in the Google Earth Engine Section of this website. Consider creating it "For myself", if you don't already have an account. 
+
+* **For those not comfortable in English: Consider downloading the General Session slideshow pdf.** The speakers notes are written out in English as a form of subtitles. There will also be Nepali speakers on the call who can translate.
+
+## Planned Modules {-}
+
+A pdf of planed modules can be found here.
+
+**Module 1**  Introduction (Bishal Bhardwaj)
+
+**Module 2**  Climate change risk and mountain development (Prof. Rajesh K Rai, Ph.D.)
+
+**Module 3a***  Components of Risk & Reading Maps (Darcy Glenn)
+
+* Discuss the components of risk
+
+  +	Hazard
+
+  +	Vulnerability
+
+  +	Capacity
+
+* Look at maps that show the 3 components of risk
+
+  +	Identify components
+
+  +	Talk about what is important on the maps
+
+**Module 3b***  Introduce What Climate Models Can and Cannot Do (Darcy Glenn)
+
+* Importance of Ensembles
+
+* Temporal Resolutions
+
+  +	If time frames are too short the results will not be accurate
+  
+  +	Best to look at data over time
+  
+  +	30 years is best
+
+* Spatial Resolutions
+
+  +	Complex landscapes do better with high resolution
+
+  +	Mountains are more difficult than flat plains
+
+* Very good at rates of change
+  +	Basic methodology - conceptual
+.
+**Module 3c*** Risk and Social Communication (Speaker To Be Decided)
+
+**Module 4**  Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn)
+
+## Powerpoints {-}
+Powerpoints are coming soon.
+
+## Videos {-}
+General Sessions will be recorded and posted here.

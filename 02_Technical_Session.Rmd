@@ -1,0 +1,126 @@
+# Technical Sessions
+
+There will be two sets of technical sessions. 
+
+## Schedule {-}
+
+**Cohort A**
+
+Sunday September 11, 2022 4-6 pm (NPT)
+
+Monday September 12, 2022 4-6 pm (NPT)
+
+Sunday September 18, 2022 4-6 pm (NPT)
+
+Monday September 19, 2022 4-6 pm (NPT)
+
+**Cohort B**
+
+Friday September 16, 2022 4-6 pm (NPT)
+
+Saturday September 17, 2022 4-6 pm (NPT)
+
+Friday September 23, 2022 4-6 pm (NPT)
+
+Saturday September 24, 2022 4-6 pm (NPT)
+
+## Before the Techincal Session {-}
+
+**Sign up for [Google Earth Engine](https://earthengine.google.com/signup/)** Please do this as soon as possible! Sometimes it takes longer than expected to go through. It is free and requires a Google account. Instructions can be found [here](https://www.linkedin.com/pulse/step-by-step-create-your-google-earth-engine-account-khang-vu-tien). Consider creating it "For myself", if you don't already have an account. 
+
+## Planned Modules {-}
+
+A pdf of planned modules can be found here.
+
+*Participants will be polled on preferences
+
+### Day 1 {-}
+
+Before session make sure you have access to Google Earth Engine and download the practice data sets for Technical Session Day One.
+
+**Module 1**	Ensure All Students Able to Log On (Darcy Glenn)
+
+**Module 2**	Introduction to Google Earth Engine (Darcy Glenn)
+
+* Upload files from computer & catalogue
+
+* Basic commands
+
+* Display data
+
+* Calculate number of days above 25^o^C (Demonstration)
+
+  + Students can choose from 25^o^C, 30^o^C, 35^o^C, 40^o^C, or 45^o^C
+
+**Module 3**	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn)
+
+### Day 2 {-}
+Before session download the practice data sets for Technical Session Day Two.
+
+**Module 1a***	Using daily data: Projecting extreme heat days (Darcy Glenn)
+
+* Importance of Ensembles
+
+* Temporal Resolutions
+
+* Review projection methodology concept
+
+* Wetbulb temperature: Heat & humidity measurement that can be related to health
+
+* Use Google Earth Engine to project days above 28^o^C wetbulb 
+
+* Export data
+
+**Module 1b***	Using daily data: Projecting extreme rainfall (Darcy Glenn)
+
+* Importance of Ensembles
+
+* Temporal Resolutions
+
+**Module 1c***	Using daily data: Projecting night temperatures (Darcy Glenn)
+
+* Temporal Resolutions
+
+* Review projection methodology concept
+
+* Minimum temperature: When the nighttime temperature is too high, our bodies can’t recover during a heatwave
+
+* Use Google Earth Engine to project changes to heat waves with high nightime temperatures
+
+* Export data
+
+**Module 1d***	Using daily data: Who is affected by high temperatures? (Darcy Glenn)
+
+* Maximum temperature: Thresholds as seen in module, but now with daily data
+
+* Import information from Google Earth Engine’s Catalogue to see who will be affected
+
+* Export data
+
+**Module 2** Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn)
+
+### Day 3 {-}
+
+**Module 1**	Student led map making
+
+**Module 2**	How risk mapping skills can help society (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) 
+
+**Module 3**	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) 
+
+### Day 4 {-}
+
+**Module 1**	Presentations
+
+**Module 2**	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn)
+
+## Powerpoints {-}
+
+Powerpoints are coming soon.
+
+## Datasets {-}
+
+Datasets are coming soon.
+
+## Videos {-}
+
+General Sessions will be recorded and posted here.
