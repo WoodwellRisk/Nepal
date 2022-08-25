@@ -6,23 +6,23 @@ There will be two sets of technical sessions.
 
 **Cohort A**
 
-Sunday September 11, 2022 4-6 pm (NPT)
+Sunday, September 11, 2022, 4-6 pm (NPT)
 
-Monday September 12, 2022 4-6 pm (NPT)
+Monday, September 12, 2022, 4-6 pm (NPT)
 
-Sunday September 18, 2022 4-6 pm (NPT)
+Sunday, September 18, 2022, 4-6 pm (NPT)
 
-Monday September 19, 2022 4-6 pm (NPT)
+Monday, September 19, 2022, 4-6 pm (NPT)
 
 **Cohort B**
 
-Friday September 16, 2022 4-6 pm (NPT)
+Friday, September 16, 2022, 4-6 pm (NPT)
 
-Saturday September 17, 2022 4-6 pm (NPT)
+Saturday, September 17, 2022, 4-6 pm (NPT)
 
-Friday September 23, 2022 4-6 pm (NPT)
+Friday, September 23, 2022, 4-6 pm (NPT)
 
-Saturday September 24, 2022 4-6 pm (NPT)
+Saturday, September 24, 2022, 4-6 pm (NPT)
 
 ## Before the Technical Session {-}
 
@@ -30,7 +30,7 @@ Saturday September 24, 2022 4-6 pm (NPT)
 
 ## Planned Modules {-}
 
-A pdf of planned modules can be found here.
+A pdf of planned modules can be found [here](https://github.com/WoodwellRisk/Nepal_Workshops/blob/master/course_materials/Workshop_Invitation.pdf).
 
 *Participants will be polled on preferences
 
@@ -48,20 +48,20 @@ Before the session make sure you have access to Google Earth Engine and download
 
 * Display data
 
-* Calculate number of days above 25°C (Demonstration)
+* Calculate the number of days above 25°C (Demonstration)
 
   + Students can choose from 25°C, 30°C, 35°C, 40°C, or 45°C
 
 **Module 3**	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn)
 
 ### Day 2 {-}
-Before session, download the practice data sets for Technical Session Day Two.
+Before the session, download the practice data sets for Technical Session Day Two.
 
 **Module 1a***	Using daily data: Projecting extreme heat days (Darcy Glenn)
 
 * Review projection methodology concept
 
-* Wet-bulb temperature: Heat & humidity measurement that can be related to health
+* Wet-bulb temperature: Heat & humidity measurements that can be related to health
 
 * Use Google Earth Engine to project days above 28°C wet-bulb 
 
@@ -71,7 +71,7 @@ Before session, download the practice data sets for Technical Session Day Two.
 
 * Review projection methodology concept
 
-* Precipitation: Threshold for extreme is set at the to 5% of rainy/snowy days
+* Precipitation: Threshold for extreme is set at the top 5% of rainy/snowy days
 
 * Use Google Earth Engine to project changes in the amount of rain that falls in the top 5% of rainy/snowy days
 
@@ -91,7 +91,7 @@ Before session, download the practice data sets for Technical Session Day Two.
 
 * Review projection methodology concept
 
-* Maximum temperature: Thresholds as seen in module, but now with daily data
+* Maximum temperature: Thresholds as seen in the module, but now with daily data
 
 * Import information from Google Earth Engine’s Catalogue to see who will be affected
 
@@ -107,9 +107,11 @@ Before session, download the practice data sets for Technical Session Day Two.
 
 **Module 3**	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn) 
 
+**Homework** If maps are not complete for the presentation, you may need to meet outside of the workshop.
+
 ### Day 4 {-}
 
-**Module 1**	Presentations
+**Module 1**	Group Presentations
 
 **Module 2**	Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn)
 

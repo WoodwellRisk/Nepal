@@ -1,4 +1,4 @@
-intro
+introduction
 general-sessions
 technical-sessions
 google-earth-engine

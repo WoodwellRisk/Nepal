@@ -1,17 +1,17 @@
 ---
 title: "Transfer of Knowledge: Reading and Creating Risk Assessment Maps"
-author: "Institute of Forestry and NRM, Tribhuvan University and Woodwell Climate Research Center"
+author: "Institute of Forestry and Natural Resource Management (NRM), Tribhuvan University and Woodwell Climate Research Center"
 site: bookdown::bookdown_site
 documentclass: book
 #output:
   #bookdown::gitbook: default
 ---
-# Intro 
+# Introduction 
 
 ![](TU_and_Woodwell.jpg)
 
 ## Linking risk assessments to their practical use {-}
-Risk assessment maps are useful and increasingly common, however the technical knowledge needed to interpret these maps is a potential barrier to widespread implementation. Using risk maps to inform climate policy requires skills in map interpretation and a baseline understanding of uncertainty inherent in climate simulations. Therefore, fostering the right skill set to correctly read and interpret maps of climate risk factors is a crucial aspect of risk science communication. To address this need, skill transfer and capacity bundling are an integral part of this study. To address this need, Woodwell Climate Research Center and School of Forestry and NRM, Tribhuvan University intend to engage with students/academics who are interested in learning the risk mapping process and the basic skills needed for interpretation.
+Risk assessment maps are useful and increasingly common; however, the technical knowledge needed to interpret these maps is a potential barrier to widespread implementation. Using risk maps to inform climate policy requires skills in map interpretation and a baseline understanding of uncertainty inherent in climate simulations. Therefore, fostering the right skill set to correctly read and interpret maps of climate risk factors is a crucial aspect of risk science communication. To address this need, skill transfer and capacity bundling are an integral part of this study. To address this need, Woodwell Climate Research Center and School of Forestry and NRM, Tribhuvan University intend to engage with students/academics who are interested in learning the risk mapping process and the basic skills needed for interpretation.
 
 ## Goals of training {-}
 
@@ -19,7 +19,7 @@ Risk assessment maps are useful and increasingly common, however the technical k
 
 -	Participants are able to communicate how climate change will impact Province 1. 
 
--	Participants are able to use the data to help tell their story.
+-	Participants are able to use the data to help tell their stories.
 
 ## Learning outcome {-}
 
@@ -41,11 +41,11 @@ After the completion of the program, participants will be able to discuss risk m
 
 ## Participant Commitment {-}
 
-Participants are expected to attend all courses. We request participants who cannot attend all classes not to enroll in the course to give opportunity to other interested participants.
+Participants are expected to attend all courses. We request participants who cannot attend all classes not to enroll in the course to give the opportunity to other interested participants.
 
 **Technical sessions ONLY** - tools needed/how to ensure platform access:
 
-* Google Earth Engine
+* [Google Earth Engine](https://earthengine.google.com/)
 
   +	Requires a Google account
 
@@ -55,11 +55,11 @@ Participants are expected to attend all courses. We request participants who can
 
 ### Why wasn't I selected to join a session? {-}
 
-There was an overwhelming interest in Understanding Climate Models. Unfortunately, we were unable to include everyone who expressed interest. The session schedule was determined based on the days that corresponded with most people’s reported schedule. From there, participants were randomly selected using a [random number generator](https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php). We understand that this is not an ideal situation and are looking for ways to ensure everyone has the opportunity to participate in these workshops.
+There was an overwhelming interest in Understanding Climate Models. Unfortunately, we were unable to include everyone who expressed interest. The session schedule was determined based on the days that corresponded with most people’s reported schedules. From there, participants were randomly selected using a [random number generator](https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php). We understand that this is not an ideal situation and are looking for ways to ensure everyone has the opportunity to participate in these workshops.
 
 ### What opportunities will be available in the future? {-}
 
-All sessions will be recorded and the course materials will be available via GitHub. 
+All sessions will be recorded, and the course materials will be available via GitHub. 
 
 We plan on having additional sessions in the future. If you wish to be informed when future sessions are announced please sign up [here](https://forms.gle/RrYgas4oGmTZKpDP7). If you already signed up for the September sessions but were not placed in your preferred session, your email is already on the list of people to contact first when we have more information.
 

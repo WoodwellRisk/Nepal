@@ -1,6 +1,6 @@
 # General Sessions
 
-General Sessions will be held on Sunday September 4, 2022 and Saturday September 10, 2022.
+General Sessions will be held on Sunday, September 4, 2022, and Saturday, September 10, 2022.
 
 ## Before the General Session {-}
 
@@ -10,11 +10,11 @@ General Sessions will be held on Sunday September 4, 2022 and Saturday September
 
 * **Technical Sessions Only: Sign up for [Google Earth Engine](https://earthengine.google.com/signup/).** Please do this as soon as possible! Sometimes it takes longer than expected to go through. It is free and requires a Google account. Instructions can be found in the [Google Earth Engine Section](https://woodwellrisk.github.io/Nepal_Workshops/google-earth-engine.html) of this website. Consider creating it "For myself", if you don't already have an account. 
 
-* **For those not comfortable in English: Consider downloading the General Session slideshow pdf (comming soon).** The speaker's notes are written out in English as a form of subtitles. There will also be Nepali speakers on the call who can translate.
+* **For those not comfortable in English: Consider downloading the General Session slideshow pdf (coming soon).** The speaker's notes are written out in English as a form of subtitles. There will also be Nepali speakers on the call who can translate.
 
 ## Planned Modules {-}
 
-A pdf of planned modules can be found here.
+A pdf of planned modules can be found [here](https://github.com/WoodwellRisk/Nepal_Workshops/blob/master/course_materials/Workshop_Invitation.pdf).
 
 *Participants will be polled on preferences
 
