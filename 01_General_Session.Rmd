@@ -4,17 +4,19 @@ General Sessions will be held on Sunday September 4, 2022 and Saturday September
 
 ## Before the General Session {-}
 
-**- Everyone: Please fill out your introductory form.** The workshops will be recorded to help with future learning. Some stills from the sessions may be used for future marketing.
+* **Everyone: Please fill out your introductory form.** The workshops will be recorded to help with future learning. Some stills from the sessions may be used for future marketing.
 
 * **Everyone: Ensure you are able to log onto Zoom.** Your calendar hold with the Zoom link will be in your inbox shortly.
 
-* **Technical Sessions Only: Sign up for [Google Earth Engine](https://earthengine.google.com/signup/).** Please do this as soon as possible! Sometimes it takes longer than expected to go through. It is free and requires a Google account. Instructions can be found in the Google Earth Engine Section of this website. Consider creating it "For myself", if you don't already have an account. 
+* **Technical Sessions Only: Sign up for [Google Earth Engine](https://earthengine.google.com/signup/).** Please do this as soon as possible! Sometimes it takes longer than expected to go through. It is free and requires a Google account. Instructions can be found in the [Google Earth Engine Section](https://woodwellrisk.github.io/Nepal_Workshops/google-earth-engine.html) of this website. Consider creating it "For myself", if you don't already have an account. 
 
-* **For those not comfortable in English: Consider downloading the General Session slideshow pdf.** The speakers notes are written out in English as a form of subtitles. There will also be Nepali speakers on the call who can translate.
+* **For those not comfortable in English: Consider downloading the General Session slideshow pdf (comming soon).** The speaker's notes are written out in English as a form of subtitles. There will also be Nepali speakers on the call who can translate.
 
 ## Planned Modules {-}
 
-A pdf of planed modules can be found here.
+A pdf of planned modules can be found here.
+
+*Participants will be polled on preferences
 
 **Module 1**  Introduction (Bishal Bhardwaj)
 
@@ -56,7 +58,7 @@ A pdf of planed modules can be found here.
 
 * Very good at rates of change
   +	Basic methodology - conceptual
-.
+
 **Module 3c*** Risk and Social Communication (Speaker To Be Decided)
 
 **Module 4**  Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn)
