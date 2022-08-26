@@ -43,6 +43,8 @@ After the completion of the program, participants will be able to discuss risk m
 
 Participants are expected to attend all courses. We request participants who cannot attend all classes not to enroll in the course to give the opportunity to other interested participants.
 
+All workshops will be held via Zoom. Please ensure you have access to the platform before the sessions.
+
 **Technical sessions ONLY** - tools needed/how to ensure platform access:
 
 * [Google Earth Engine](https://earthengine.google.com/)
