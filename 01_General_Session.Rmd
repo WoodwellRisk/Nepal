@@ -8,23 +8,23 @@ General Sessions will be held on Sunday, September 4, 2022, and Saturday, Septem
 
 * **Everyone: Ensure you are able to log onto Zoom.** Your calendar hold with the Zoom link will be in your inbox shortly.
 
-* **Technical Sessions Only: Sign up for [Google Earth Engine](https://earthengine.google.com/signup/).** Please do this as soon as possible! Sometimes it takes longer than expected to go through. It is free and requires a Google account. Instructions can be found in the [Google Earth Engine Section](https://woodwellrisk.github.io/Nepal_Workshops/google-earth-engine.html) of this website. Consider creating it "For myself", if you don't already have an account. 
+* <span style="color: #FF7733;">**Technical sessions ONLY**</span>**: Sign up for [Google Earth Engine](https://earthengine.google.com/signup/).** Please do this as soon as possible! Sometimes it takes longer than expected to go through. Signing up for Google Earth Engine is free and **requires a Google account**. Instructions can be found in the [Google Earth Engine Section](https://woodwellrisk.github.io/Nepal_Workshops/google-earth-engine.html) of this website. Consider creating it "For myself", if you don't already have an account. 
 
-* **For those not comfortable in English: Consider downloading the General Session slideshow pdf (coming soon).** The speaker's notes are written out in English as a form of subtitles. There will also be Nepali speakers on the call who can translate.
+* **For those not comfortable in English: Consider downloading the General Session slideshow .pdf (coming soon).** The speaker's notes are written out in English as a form of subtitles. There will also be Nepali speakers on the call who can translate.
 
 ## Planned Modules {-}
 
-A pdf of planned modules can be found [here](https://github.com/WoodwellRisk/Nepal_Workshops/blob/master/course_materials/Workshop_Invitation.pdf).
+A .pdf of planned modules can be found [here](https://github.com/WoodwellRisk/Nepal_Workshops/blob/master/course_materials/Workshop_Invitation.pdf).
 
-*Participants will be polled on preferences
+*Participants will be polled on preferences for Modules 3a-c.
 
 **Module 1**  Introduction (Bishal Bhardwaj)
 
-**Module 2**  Climate change risk and mountain development (Prof. Rajesh K Rai, Ph.D.)
+**Module 2**  Climate Change Risk and Mountain Development (Prof. Rajesh K Rai, Ph.D.)
 
 **Module 3a***  Components of Risk & Reading Maps (Darcy Glenn)
 
-* Discuss the components of risk
+* Discuss the three components of risk:
 
   +	Hazard
 
@@ -32,11 +32,11 @@ A pdf of planned modules can be found [here](https://github.com/WoodwellRisk/Nep
 
   +	Capacity
 
-* Look at maps that show the 3 components of risk
+* Look at maps that show the three components of risk
 
   +	Identify components
 
-  +	Talk about what is important on the maps
+  +	Discuss what is important and relevant on the maps
 
 **Module 3b***  Introduce What Climate Models Can and Cannot Do (Darcy Glenn)
 
@@ -44,20 +44,19 @@ A pdf of planned modules can be found [here](https://github.com/WoodwellRisk/Nep
 
 * Temporal Resolutions
 
-  +	If time frames are too short the results will not be accurate
+  +	If time frames are too short, the results will not be accurate.
   
-  +	Best to look at data over time
-  
-  +	30 years is best
+  +	Best practice is to look at data over a 30 year time frame.
 
 * Spatial Resolutions
 
-  +	Complex landscapes do better with high resolution
+  +	Complex landscapes are better modeled with high resolution.
 
-  +	Mountains are more difficult than flat plains
+  +	Mountains are more difficult  to model than flat plains.
 
 * Very good at rates of change
-  +	Basic methodology - conceptual
+
+  +	Overview of basic modeling methodology - conceptual
 
 **Module 3c*** Risk and Social Communication (Speaker To Be Decided)
 

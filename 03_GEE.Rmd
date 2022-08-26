@@ -4,13 +4,13 @@ Sign up as soon as possible. Google Earth Engine will be needed for the technica
 
 Steps:
 
-1.  [Sign up](https://signup.earthengine.google.com/) for access
+1.  [Sign up](https://signup.earthengine.google.com/) for access.
 
-2.  An automated system does an initial accept/reject immediately upon submitting the application
+2.  An automated system does an initial accept/reject immediately upon submitting the application.
 
-3.  Wait a few minutes
+3.  Wait a few minutes.
 
-4.  Go to the [Code Editor](https://code.earthengine.google.com/) to see if you have access
+4.  Go to the [Code Editor](https://code.earthengine.google.com/) to see if you have access.
 
 If you don't have access or are rejected please reach out to **dglenn@woodwellclimate.org**.
 
