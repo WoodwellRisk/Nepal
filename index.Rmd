@@ -11,21 +11,21 @@ documentclass: book
 ![](TU_and_Woodwell.jpg)
 
 ## Linking risk assessments to their practical use {-}
-Risk assessment maps are useful and increasingly common; however, the technical knowledge needed to interpret these maps is a potential barrier to widespread implementation. Using risk maps to inform climate policy requires skills in map interpretation and a baseline understanding of uncertainty inherent in climate simulations. Therefore, fostering the right skill set to correctly read and interpret maps of climate risk factors is a crucial aspect of risk science communication. To address this need, skill transfer and capacity bundling are an integral part of this study. To address this need, Woodwell Climate Research Center and School of Forestry and NRM, Tribhuvan University intend to engage with students/academics who are interested in learning the risk mapping process and the basic skills needed for interpretation.
+Risk assessment maps are useful and increasingly common; however, the technical knowledge needed to interpret these maps is a potential barrier to widespread implementation. Using risk maps to inform climate policy requires skills in map interpretation and a baseline understanding of uncertainty inherent in climate simulations. Therefore, fostering the right skill set to correctly read and interpret maps of climate risk factors is a crucial aspect of risk science communication. To address this need, skill transfer and capacity buidling are an integral part of this study. To address this need, Woodwell Climate Research Center and Institute of Forestry and NRM, Tribhuvan University intend to engage with students/academics who are interested in learning the risk mapping process and the basic skills needed for interpretation.
 
 ## Goals of training {-}
 
--	Participants are able to work with climate model data and create their own maps and visualizations.
+*	Participants will be able to communicate how climate change will impact Province 1. 
 
--	Participants are able to communicate how climate change will impact Province 1. 
+*	Participants will be able to work with climate model data and create their own maps and visualizations.
 
--	Participants are able to use the data to help tell their stories.
+*	Participants will be able to use the data to help tell their stories.
 
 ## Learning outcome {-}
 
 After the completion of the program, participants will be able to discuss risk maps and describe the process to their friends and community.
 
-**Technical sessions ONLY** - students will receive:
+<span style="color: #FF7733;">**Technical sessions ONLY**</span> - students will receive:
 
 * Regional climate model data for Nepal
 
@@ -37,17 +37,17 @@ After the completion of the program, participants will be able to discuss risk m
 
   +	Precipitation (daily) 1990-2019 and 2040-2069
 
-* Example codes that students can use to further explore their own climate risk questions
+* Example codes that participants can use to further explore their own climate risk questions.
 
 ## Participant Commitment {-}
 
-Participants are expected to attend all courses. We request participants who cannot attend all classes not to enroll in the course to give the opportunity to other interested participants.
+Participants are expected to attend all courses. If a participant cannot attend all courses, we kindly request that you do not enroll in the training to give the opportunity to other interested participants.
 
 All workshops will be held via Zoom. Please ensure you have access to the platform before the sessions.
 
-**Technical sessions ONLY** - tools needed/how to ensure platform access:
+<span style="color: #FF7733;">**Technical sessions ONLY**</span> - Google Earth Engine is the only tool needed. Please follow the link below on how to ensure platform access:
 
-* [Google Earth Engine](https://earthengine.google.com/)
+* [Google Earth Engine](https://woodwellrisk.github.io/Nepal_Workshops/google-earth-engine.html#google-earth-engine)
 
   +	Requires a Google account
 
