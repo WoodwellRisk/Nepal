@@ -26,7 +26,7 @@ Saturday, September 24, 2022, 4-6 pm (NPT)
 
 ## Before the Technical Session {-}
 
-**Sign up for [Google Earth Engine](https://earthengine.google.com/signup/)**. Please do this as soon as possible! Sometimes it takes longer than expected to go through. It is free and **requires a Google account**. Instructions can be found [here](https://www.linkedin.com/pulse/step-by-step-create-your-google-earth-engine-account-khang-vu-tien). Consider creating it "For myself", if you don't already have an account. 
+**Sign up for [Google Earth Engine](https://earthengine.google.com/signup/){target="_blank"}**. Please do this as soon as possible! Sometimes it takes longer than expected to go through. It is free and **requires a Google account**. Instructions can be found in the [Google Earth Engine Section](https://woodwellrisk.github.io/Nepal_Workshops/google-earth-engine.html) of this website.
 
 ## Planned Modules {-}
 
