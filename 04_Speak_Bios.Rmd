@@ -2,7 +2,7 @@
 
 ## Hosts {-}
 
-![](Rajesh_Rai.png)
+![](Rajesh_Rai.png){width=300px}
 
 **Rajesh Kumar Rai, PhD**
 
@@ -11,7 +11,7 @@ Dr. Rajesh Rai is the Director at School of Forestry & Natural Resource Manageme
 Rajesh has worked in community based forestry programs where he has been involved in valuation of ecosystem services, social benefit-cost analysis, policy research, invasive plant species management, payment for ecosystem services, REDD and Discrete Choice experiments in developing countries. 
 Rajesh completed MSc in Forestry,  and Forest Ecology and Management from University of Eastern Finland, and Albert-Ludwigs-Universität Freiburg im Briesgau. Rajesh received his PhD in Environmental Economics from Deakin University, Australia.
 
-![](Bishal_Bharadwaj.png)
+![](Bishal_Bharadwaj.png){width=300px}
 
 **Bishal Bharadwaj**
 
@@ -19,7 +19,7 @@ Bishal Bharadwaj is an economic geographer by orientation. Bishal is currently a
 
 Bishal has also served as section officer and Undersecretary in civil service of Nepal. Bishal studied MSc Climate Change from UCL, London in 2016 and is about to complete his PhD from University of Queensland. Bishal is interested in evaluating environmental policies to find strategies to make sure environmental policies are effective and the impacts are equitable. For additional information about Bishal, visit  www.bishalbharadwaj.com. 
 
-![](Darcy_Glenn.jpeg)
+![](Darcy_Glenn.jpeg){width=300px}
 
 **Darcy Glenn**
 
