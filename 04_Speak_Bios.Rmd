@@ -1,6 +1,6 @@
 # Speaker Bios
 
-## Hosts
+## Hosts {-}
 
 ![](Rajesh_Rai.png)
 
@@ -27,7 +27,7 @@ Darcy Glenn utilizes climate modeling to provide information to decision-makers 
 
 Previously,  Darcy worked for two local governments:  Park City, Utah and Summit County, Utah. There she had the privilege to work on the “Most Ambitious Climate Goals in North America” allowing her to work on carbon accounting, wildfire adaptation, regenerative agriculture, and electrification policy.Her education includes a B.S. in Physics and a B.A. in Math from the University of Vermont, as well as an M.S. in Climate Change from University College London.
 
-## Speakers
+## Speakers {-}
 
 
 

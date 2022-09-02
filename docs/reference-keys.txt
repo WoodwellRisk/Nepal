@@ -2,3 +2,4 @@ introduction
 general-sessions
 technical-sessions
 google-earth-engine
+speaker-bios
