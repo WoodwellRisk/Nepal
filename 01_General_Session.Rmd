@@ -65,7 +65,7 @@ A .pdf of planned modules can be found [here](https://github.com/WoodwellRisk/Ne
 **Module 4**  Recap and Q&A (Bishal Bharadwaj, Prof. Rajesh K Rai, Darcy Glenn)
 
 ## Powerpoints {-}
-PDF files of the Powerpoints can be found [here] (https://github.com/WoodwellRisk/Nepal_Workshops/upload/master/course_materials).
+PDF files of the Powerpoints can be found [here](https://github.com/WoodwellRisk/Nepal_Workshops/upload/master/course_materials).
 
 ## Videos {-}
 General Sessions will be recorded and posted here.
