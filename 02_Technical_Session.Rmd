@@ -6,23 +6,23 @@ There will be two sets of technical sessions.
 
 **Cohort A**
 
-Sunday, September 11, 2022, 4-6 pm (NPT)
+Day 1: Sunday, September 11, 2022, 4-6 pm (NPT)
 
-Monday, September 12, 2022, 4-6 pm (NPT)
+Day 2: Monday, September 12, 2022, 4-6 pm (NPT)
 
-Sunday, September 18, 2022, 4-6 pm (NPT)
+Day 3: Sunday, September 18, 2022, 4-6 pm (NPT)
 
-Monday, September 19, 2022, 4-6 pm (NPT)
+Day 4: Monday, September 19, 2022, 4-6 pm (NPT)
 
 **Cohort B**
 
-Friday, September 16, 2022, 4-6 pm (NPT)
+Day 1: Friday, September 16, 2022, 4-6 pm (NPT)
 
-Saturday, September 17, 2022, 4-6 pm (NPT)
+Day 2: Saturday, September 17, 2022, 4-6 pm (NPT)
 
-Friday, September 23, 2022, 4-6 pm (NPT)
+Day 3: Friday, September 23, 2022, 4-6 pm (NPT)
 
-Saturday, September 24, 2022, 4-6 pm (NPT)
+Day 4: Saturday, September 24, 2022, 4-6 pm (NPT)
 
 ## Before the Technical Session {-}
 
@@ -56,6 +56,8 @@ Before the session, make sure you have access to Google Earth Engine and downloa
 
 ### Day 2 {-}
 Before the session, download the practice data sets for Technical Session Day 2.
+
+Participants will be polled on preferences for Modules 1a-d. The Module selected will be determined by Day 1 of the Technical Sessions. This will give participants time to download data.
 
 **Module 1a***	Using Daily Data: Projecting Extreme Heat Days (Darcy Glenn)
 
