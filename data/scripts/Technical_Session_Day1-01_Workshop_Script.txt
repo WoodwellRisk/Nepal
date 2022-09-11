@@ -1,0 +1,87 @@
+//--------------------------------------------------------------------------
+// Climate model data
+//--------------------------------------------------------------------------
+
+// Prepare to use REMO data by defining the images as specific variables
+var model1_1990_2019=image2.unmask(0);
+var model1_2040_2069=image3.unmask(0);
+var model2_1990_2019=image4.unmask(0);
+var model2_2040_2069=image5.unmask(0);
+var model3_1990_2019=image6.unmask(0);
+var model3_2040_2069=image7.unmask(0);
+
+// Group all 1990-2019 and 2040-2069 variables and find the median
+var ensemble_1990_2019 = ee.ImageCollection([model1_1990_2019, model2_1990_2019, model3_1990_2019]).median();
+Map.addLayer(ensemble_1990_2019, {}, 'Model Ensemble: 1990-2019'); //Map.addLayer(variable to be show, {visualization directions}, name of layer)
+
+//✁.........................................................................
+var ensemble_2040_2069 = ee.ImageCollection([model1_2040_2069, model2_2040_2069, model3_2040_2069]).median();
+Map.addLayer(ensemble_2040_2069, {}, 'Model Ensemble: 2040-2069');
+
+
+//✁.........................................................................
+// Find the difference and percent difference between recent and future periods
+var difference = ensemble_2040_2069.subtract(ensemble_1990_2019);//x-y
+Map.addLayer(difference, {}, 'Climate Models Percent Difference');
+
+//✁.........................................................................
+
+//--------------------------------------------------------------------------
+// Real world data
+//--------------------------------------------------------------------------
+
+// Make sure to read IMDAA's Terms and conditions if you plan on using this data outside of the course
+// IMDAA cannot be used commercially without prior written permission
+// https://rds.ncmrwf.gov.in/pdf/Data_License_Terms_v2.0_Aug2020_NCMRWF.pdf
+
+// Prepare to use IMDAA data by creating variables
+var real_world_1990_2019 = image.unmask(0);
+Map.addLayer(real_world_1990_2019, {}, 'Real world: 1990-2019');
+
+// Future real world count of days above threshold
+var real_world_2040_2069 = real_world_1990_2019.add(difference);
+Map.addLayer(real_world_2040_2069, {}, 'Real world: 2040-2069');
+
+//✁.........................................................................
+
+//--------------------------------------------------------------------------
+// Styles for maps
+//--------------------------------------------------------------------------
+
+//Center map on Nepal with a given (lon, lat, zoom)
+Map.setCenter(84, 28.5, 6); 
+
+// Nepal's border outlined in black
+var fc = ee.FeatureCollection('USDOS/LSIB_SIMPLE/2017')
+             .filter('country_na == "Nepal"');
+var styleParams = {
+  fillColor: '#FFFFFF00', //inside of the outline is transparent- adding 00 to the #FFFFFF hexcode makes it transparent
+  color: 'black',
+  width: 1.0,
+}
+var NepalBorder = fc.style(styleParams);
+
+// Temperature Count, 12 colors, 1 color per month
+var visTempCount = {
+  min: 0,
+  max: 365,
+  palette: [
+    '#219EBC', '#FFEAAA', '#FFE53F', '#FFD519', '#FFBA08', '#FAA307',
+    '#F48C06', '#E85D04', '#DC2F02', '#D00000', '#9D0208', '#6A040F'
+  ]
+};
+
+//✁.........................................................................
+
+//--------------------------------------------------------------------------
+// Show maps
+//--------------------------------------------------------------------------
+
+Map.addLayer(ensemble_1990_2019, visTempCount, 'Model Ensemble: 1990-2019');
+Map.addLayer(ensemble_2040_2069, visTempCount, 'Model Ensemble: 2040-2069');
+Map.addLayer(difference, visTempCount, 'Climate Models Percent Difference');
+
+Map.addLayer(real_world_1990_2019, visTempCount, 'Real world: 1990-2019');
+Map.addLayer(real_world_2040_2069, visTempCount, 'Real world: 2040-2069');
+
+Map.addLayer(NepalBorder,styleParams,'Nepal Border');

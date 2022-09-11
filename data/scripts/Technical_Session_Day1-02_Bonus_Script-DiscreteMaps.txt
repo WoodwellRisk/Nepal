@@ -1,0 +1,59 @@
+//--------------------------------------------------------------------------
+// Discrete Maps
+//--------------------------------------------------------------------------
+
+//Turn Data into discrete data
+var real_world_1990_2019_months = ee.Image(0)
+    //1-14 is just a count of the discrete categories I am making, it matches my 14 colors
+    .where(real_world_1990_2019.eq(0), 1) // Not expected
+    .where(real_world_1990_2019.gt(0), 2) // <1 month
+    .where(real_world_1990_2019.gte(30.4), 3) // 1+ months
+    .where(real_world_1990_2019.gte(60.8), 4) // 2+ months
+    .where(real_world_1990_2019.gte(91.2), 5) // 3+ months
+    .where(real_world_1990_2019.gte(121.6), 6) // 4+ months
+    .where(real_world_1990_2019.gte(152), 7) // 5+ months
+    .where(real_world_1990_2019.gte(182.4), 8)// 6+ months
+    .where(real_world_1990_2019.gte(212.8), 9) // 7+ months
+    .where(real_world_1990_2019.gte(243.2), 10) // 8+ months
+    .where(real_world_1990_2019.gte(273.6), 11) // 9+ months
+    .where(real_world_1990_2019.gte(304), 12) // 10+ months
+    .where(real_world_1990_2019.gte(334.4), 13) // 11+ months
+    .where(real_world_1990_2019.gte(365), 14) // All year
+    .updateMask(real_world_1990_2019.neq(0))
+
+var real_world_2040_2069_months = ee.Image(0)
+    //1-14 is just a count of the discrete categories I am making, it matches my 14 colors
+    // for the months break down I used 365÷12=30.4 for ease
+    .where(real_world_2040_2069.eq(0), 1) // Not expected
+    .where(real_world_2040_2069.gt(0), 2) // <1 month
+    .where(real_world_2040_2069.gte(30.4), 3) // 1+ months
+    .where(real_world_2040_2069.gte(60.8), 4) // 2+ months
+    .where(real_world_2040_2069.gte(91.2), 5) // 3+ months
+    .where(real_world_2040_2069.gte(121.6), 6) // 4+ months
+    .where(real_world_2040_2069.gte(152), 7) // 5+ months
+    .where(real_world_2040_2069.gte(182.4), 8)// 6+ months
+    .where(real_world_2040_2069.gte(212.8), 9) // 7+ months
+    .where(real_world_2040_2069.gte(243.2), 10) // 8+ months
+    .where(real_world_2040_2069.gte(273.6), 11) // 9+ months
+    .where(real_world_2040_2069.gte(304), 12) // 10+ months
+    .where(real_world_2040_2069.gte(334.4), 13) // 11+ months
+    .where(real_world_2040_2069.gte(365), 14) // All year
+    .updateMask(real_world_2040_2069.neq(0))
+
+
+//Create new color pallet
+// Temperature Count, 14 colors, 1 color per month + 1 for never + 1 for always
+var visTempCount_discrete = {
+  min: 1,
+  max: 14,
+  palette: [
+    '#219EBC','#FFEAAA','#FFE53F', '#FFD519', '#FFBA08', '#FAA307','#F48C06',
+    '#E85D04', '#DC2F02', '#D00000', '#9D0208', "#84030C", '#6A040F','#3B0208'
+  ]
+};
+
+
+//Add layers to map
+Map.addLayer(real_world_1990_2019_months, visTempCount_discrete, 'Real world: 1990-2019 (discrete)');
+Map.addLayer(real_world_2040_2069_months, visTempCount_discrete, 'Real world: 2040-2069 (discrete)');
+Map.addLayer(NepalBorder,styleParams,'Nepal Border');

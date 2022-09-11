@@ -1,0 +1,126 @@
+//--------------------------------------------------------------------------
+// Climate model data
+//--------------------------------------------------------------------------
+
+// Prepare to use REMO data by defining the images as specific variables
+var model1_1990_2019=image2.unmask(0);
+var model1_2040_2069=image3.unmask(0);
+var model2_1990_2019=image4.unmask(0);
+var model2_2040_2069=image5.unmask(0);
+var model3_1990_2019=image6.unmask(0);
+var model3_2040_2069=image7.unmask(0);
+
+// Group all 1990-2019 and 2040-2069 variables and find the median
+var ensemble_1990_2019 = ee.ImageCollection([model1_1990_2019, model2_1990_2019, model3_1990_2019]).median();
+var ensemble_2040_2069 = ee.ImageCollection([model1_2040_2069, model2_2040_2069, model3_2040_2069]).median();
+
+// Find the difference and percent difference between recent and future periods
+var difference = ensemble_2040_2069.subtract(ensemble_1990_2019);//x-y
+
+
+//--------------------------------------------------------------------------
+// Real world data
+//--------------------------------------------------------------------------
+
+// Make sure to read IMDAA's Terms and conditions if you plan on using this data outside of the course
+// IMDAA cannot be used commercially without prior written permission
+// https://rds.ncmrwf.gov.in/pdf/Data_License_Terms_v2.0_Aug2020_NCMRWF.pdf
+
+// Prepare to use IMDAA data by creating variables
+var real_world_1990_2019 = image.unmask(0);
+
+// Future real world count of days above threshold
+var real_world_2040_2069 = real_world_1990_2019.add(difference);
+
+//Turn Data into discrete data
+var real_world_1990_2019_months = ee.Image(0)
+    //1-14 is just a count of the discrete categories I am making, it matches my 14 colors
+    .where(real_world_1990_2019.eq(0), 1) // Not expected
+    .where(real_world_1990_2019.gt(0), 2) // <1 month
+    .where(real_world_1990_2019.gte(30.4), 3) // 1+ months
+    .where(real_world_1990_2019.gte(60.8), 4) // 2+ months
+    .where(real_world_1990_2019.gte(91.2), 5) // 3+ months
+    .where(real_world_1990_2019.gte(121.6), 6) // 4+ months
+    .where(real_world_1990_2019.gte(152), 7) // 5+ months
+    .where(real_world_1990_2019.gte(182.4), 8)// 6+ months
+    .where(real_world_1990_2019.gte(212.8), 9) // 7+ months
+    .where(real_world_1990_2019.gte(243.2), 10) // 8+ months
+    .where(real_world_1990_2019.gte(273.6), 11) // 9+ months
+    .where(real_world_1990_2019.gte(304), 12) // 10+ months
+    .where(real_world_1990_2019.gte(334.4), 13) // 11+ months
+    .where(real_world_1990_2019.gte(365), 14) // All year
+    .updateMask(real_world_1990_2019.neq(0))
+
+var real_world_2040_2069_months = ee.Image(0)
+    //1-14 is just a count of the discrete categories I am making, it matches my 14 colors
+    // for the months break down I used 365÷12=30.4 for ease
+    .where(real_world_2040_2069.eq(0), 1) // Not expected
+    .where(real_world_2040_2069.gt(0), 2) // <1 month
+    .where(real_world_2040_2069.gte(30.4), 3) // 1+ months
+    .where(real_world_2040_2069.gte(60.8), 4) // 2+ months
+    .where(real_world_2040_2069.gte(91.2), 5) // 3+ months
+    .where(real_world_2040_2069.gte(121.6), 6) // 4+ months
+    .where(real_world_2040_2069.gte(152), 7) // 5+ months
+    .where(real_world_2040_2069.gte(182.4), 8)// 6+ months
+    .where(real_world_2040_2069.gte(212.8), 9) // 7+ months
+    .where(real_world_2040_2069.gte(243.2), 10) // 8+ months
+    .where(real_world_2040_2069.gte(273.6), 11) // 9+ months
+    .where(real_world_2040_2069.gte(304), 12) // 10+ months
+    .where(real_world_2040_2069.gte(334.4), 13) // 11+ months
+    .where(real_world_2040_2069.gte(365), 14) // All year
+    .updateMask(real_world_2040_2069.neq(0))
+
+
+//--------------------------------------------------------------------------
+// Styles for maps
+//--------------------------------------------------------------------------
+
+//Center map on Nepal with a given (lon, lat, zoom)
+Map.setCenter(84, 28.5, 6); 
+
+// Nepal's border outlined in black
+var fc = ee.FeatureCollection('USDOS/LSIB_SIMPLE/2017')
+             .filter('country_na == "Nepal"');
+var styleParams = {
+  fillColor: '#FFFFFF00', //inside of the outline is transparent- adding 00 to the #FFFFFF hexcode makes it transparent
+  color: 'black',
+  width: 1.0,
+}
+var NepalBorder = fc.style(styleParams);
+
+// Temperature Count, 12 colors, 1 color per month + 1 for always
+var visTempCount = {
+  min: 0,
+  max: 365,
+  palette: [
+    '#FFEAAA','#FFE53F', '#FFD519', '#FFBA08', '#FAA307','#F48C06',
+    '#E85D04', '#DC2F02', '#D00000', '#9D0208', "#84030C", '#6A040F'
+  ]
+};
+
+// Temperature Descrete Month Count, 14 colors, 1 color per month + 1 for never + 1 for always
+var visTempCount_discrete = {
+  min: 1,
+  max: 14,
+  palette: [
+    '#219EBC','#FFEAAA','#FFE53F', '#FFD519', '#FFBA08', '#FAA307','#F48C06',
+    '#E85D04', '#DC2F02', '#D00000', '#9D0208', "#84030C", '#6A040F','#3B0208'
+  ]
+};
+
+
+//--------------------------------------------------------------------------
+// Show maps
+//--------------------------------------------------------------------------
+
+Map.addLayer(ensemble_1990_2019, visTempCount, 'Model Ensemble: 1990-2019');
+Map.addLayer(ensemble_2040_2069, visTempCount, 'Model Ensemble: 2040-2069');
+Map.addLayer(difference, visTempCount, 'Climate Models Percent Difference');
+
+Map.addLayer(real_world_1990_2019, visTempCount, 'Real world: 1990-2019');
+Map.addLayer(real_world_2040_2069, visTempCount, 'Real world: 2040-2069');
+
+Map.addLayer(real_world_1990_2019_months, visTempCount_discrete, 'Real world: 1990-2019 (discrete)');
+Map.addLayer(real_world_2040_2069_months, visTempCount_discrete, 'Real world: 2040-2069 (discrete)');
+
+Map.addLayer(NepalBorder,styleParams,'Nepal Border');
