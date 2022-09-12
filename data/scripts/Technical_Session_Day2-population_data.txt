@@ -3,9 +3,6 @@
 
 // Read in Google Catalogue population data to this session.
 var dataset = ee.ImageCollection("WorldPop/GP/100m/pop");
-
-var roi = ee.Geometry.BBox(78.5, 26, 90, 31);
-
 // Set some visualization parameters for the data:
 //    Which variable to plot ('population'), The minimum and maximum bounds
 //    and The color palette as a list of three colors
@@ -13,19 +10,20 @@ var visualization = {
   bands: ['population'],
   min: 0.0,
   max: 50.0,
-  palette: ['060606', '337663', '337663', 'ffffff'],
+  //palette: ['060606', '337663', '337663', 'ffffff'],
+  palette: ['FFFFFF','000000'],
   opacity: 0.75
 };
 
 // Set map center and cut out a box around Nepal
-Map.setCenter(84, 28.5, 6); 
+Map.setCenter(84, 28.5, 7); 
 
 // Add Nepal's border
 var fc = ee.FeatureCollection('USDOS/LSIB_SIMPLE/2017')
              .filter('country_na == "Nepal"');
 var styleParams = {
   fillColor: '#FFFFFF00', //inside of the outline is transparent- adding 00 to the #FFFFFF hexcode makes it transparent
-  color: 'white',
+  color: 'black',
   width: 1.0,
 }
 var NepalBorder = fc.style(styleParams);
