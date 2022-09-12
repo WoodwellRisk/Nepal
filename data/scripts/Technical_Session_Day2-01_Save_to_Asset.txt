@@ -1,0 +1,16 @@
+
+
+// Export the image to you Google Drive
+Export.image.toAsset({
+    image: layer, //Change me!!!!!
+    description: 'IMDAAimageToAsset',
+    assetId: name, 
+    dimensions:'73x38', //For IMDAA use 73x38, for REMO use 44x23
+    region: ee.Geometry.BBox(79.8,26.2,88.4,30.6),
+    crs: 'EPSG:4326',
+    pyramidingPolicy: {
+      'b4_mean': 'mean',
+      'b4_sample': 'sample',
+      'b4_max': 'max'
+    }
+  });
