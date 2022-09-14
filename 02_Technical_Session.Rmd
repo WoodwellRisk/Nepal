@@ -131,4 +131,45 @@ The [DataFiles_Technical_Session_Day_1.zip](https://github.com/WoodwellRisk/Nepa
 
 ## Videos {-}
 
-General Sessions will be recorded and posted here.
+[**Technical Session Day 1 - Cohort A - Sunday 11, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WU8ii0AKsH-CttOsODUb6imrKbYA-C0pM7oizVZzexhr4j_kznWCkV4P6WomoiSs.BP-4G4hFf35uD6bN)
+
+Bishal Bharadwaj and Suman Shree Neupane facilitated the session. Darcy Glenn walked participants through:
+
+* Where data came from
+
+* How to download data from Github
+
+* The parts of the Google Earth Engine dashboard
+
+* Creating a repository
+
+* Uploading files
+
+* Creating file folders
+
+* Importing data from file into scripts
+
+* Saving scripts
+
+* Combining 3 models into an ensemble
+
+* Finding the difference between the ensemble's future data and past data
+
+* Changing a map's appearance
+
+* Using the Explorer tool to find values at a specific location.
+
+[**Technical Session Day 1 - Cohort A - Monday 12, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WrwS4mY6x5M6biLkwqk5GamiecAulGlAv-PwfEpFtjALyzTw-BS7eLaz9D2ryZfs.4Ey-3KYsQR-mKNAB)
+
+Bishal Bharadwaj and Suman Shree Neupane facilitated the session. Darcy Glenn walked participants through:
+
+* Applying a model ensemble's difference to reanalysis data to find future values
+
+* Formatting maps
+
+Dr. David Byrne presented:
+
+* The Google Earth Engine catalog
+
+* How to import different types of population data from the catalog
+
