@@ -1,0 +1,1 @@
+If you download the zip file for day 1, you already have this data. Please upload a new temperature threshold (30,35,40,or,45oC) to Google Earth Engine.
