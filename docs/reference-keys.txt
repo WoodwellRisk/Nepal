@@ -2,4 +2,6 @@ introduction
 general-sessions
 technical-sessions
 google-earth-engine
+sign-up
+upload-geotiff
 speaker-bios
