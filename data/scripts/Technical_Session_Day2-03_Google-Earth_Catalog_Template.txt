@@ -1,0 +1,28 @@
+// ************************
+/// PUT CATALOG CODE IN HERE
+
+
+// ************************
+
+//Center map on Nepal with a given (lon, lat, zoom)
+Map.setCenter(84, 28.5, 6); 
+// Nepal's border outlined in black
+var fc = ee.FeatureCollection('USDOS/LSIB_SIMPLE/2017')
+             .filter('country_na == "Nepal"');
+var styleParams = {
+  fillColor: '#FFFFFF00', //inside of the outline is transparent- adding 00 to the #FFFFFF hexcode makes it transparent
+  color: 'black',
+  width: 1.0,
+}
+var NepalBorder = fc.style(styleParams);
+
+// Temperature Count, 12 colors, 1 color per month
+var visTempCount = {
+  min: 0,
+  max: 365,
+  palette: [
+    '#219EBC', '#FFEAAA', '#FFE53F', '#FFD519', '#FFBA08', '#FAA307',
+    '#F48C06', '#E85D04', '#DC2F02', '#D00000', '#9D0208', '#6A040F'
+  ]
+};
+Map.addLayer(NepalBorder,styleParams,'Nepal Border');
