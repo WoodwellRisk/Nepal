@@ -1,0 +1,58 @@
+// Export the image to an Google Drive.
+
+function export_REMO(layer, name) {
+  Export.image.toDrive({
+    image: layer,
+    description: 'REMOimageToDrive',
+    fileNamePrefix: name, 
+    dimensions:'44x23',
+    region: ee.Geometry.BBox(79.8,26.2,88.4,30.6),
+    crs: 'EPSG:4326',
+  });
+} 
+  
+function export_IMDAA(layer, name) {
+  Export.image.toDrive({
+    image: layer,
+    description: 'IMDAAimageToDrive',
+    fileNamePrefix: name, 
+    dimensions:'73x38',
+    region: ee.Geometry.BBox(79.8,26.2,88.4,30.6),
+    crs: 'EPSG:4326',
+  });
+}
+
+
+//---------------------------------------------------------------------------------------------
+// Save the image to an Earth Engine asset.
+function save_REMO(layer, name) {
+  Export.image.toAsset({
+    image: layer,
+    description: 'REMOimageToAsset',
+    assetId: name, 
+    dimensions:'44x23',
+    region: ee.Geometry.BBox(79.8,26.2,88.4,30.6),
+    crs: 'EPSG:4326',
+    pyramidingPolicy: {
+      'b4_mean': 'mean',
+      'b4_sample': 'sample',
+      'b4_max': 'max'
+    }
+  });
+}
+
+function save_IMDAA(layer, name) {
+  Export.image.toAsset({
+    image: layer,
+    description: 'IMDAAimageToAsset',
+    assetId: name, 
+    dimensions:'73x38',
+    region: ee.Geometry.BBox(79.8,26.2,88.4,30.6),
+    crs: 'EPSG:4326',
+    pyramidingPolicy: {
+      'b4_mean': 'mean',
+      'b4_sample': 'sample',
+      'b4_max': 'max'
+    }
+  });
+}
