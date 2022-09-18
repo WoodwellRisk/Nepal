@@ -1,0 +1,15 @@
+//Create the difference or percent difference
+var difference = ensemble_2040_2069.subtract(ensemble_1990_2019); //future - historic
+var percentDiff = difference.divide(ensemble_1990_2019); //(future - historic)/historic
+
+
+//Apply to real world data
+var real_world_1990_2019 = image;
+
+//Option 1: Apply difference, recommended for the "count of days" variables
+var real_world_2040_2069_v1 = real_world_1990_2019.add(difference);
+
+
+//Option 2: Apply percent difference, recommended for the "change in amount" variables for example change in mm or change in oC of max temp
+var percentDiff_plus1 = percentDiff.add(1);
+var real_world_2040_2069_v2 = real_world_1990_2019.multiply(percentDiff_plus1);
