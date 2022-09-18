@@ -1,0 +1,80 @@
+//--------------------------------------------------------------------------
+// Climate model data
+//--------------------------------------------------------------------------
+
+// Prepare to use REMO data by defining the images as specific variables
+var model1_1990_2019=image2.unmask(0);
+var model1_2040_2069=image3.unmask(0);
+var model2_1990_2019=image4.unmask(0);
+var model2_2040_2069=image5.unmask(0);
+var model3_1990_2019=image6.unmask(0);
+var model3_2040_2069=image7.unmask(0);
+
+// Group all 1990-2019 and 2040-2069 variables and find the median
+var ensemble_1990_2019 = ee.ImageCollection([model1_1990_2019, model2_1990_2019, model3_1990_2019]).median();
+var ensemble_2040_2069 = ee.ImageCollection([model1_2040_2069, model2_2040_2069, model3_2040_2069]).median();
+
+// Find the difference and percent difference between recent and future periods
+var difference = ensemble_2040_2069.subtract(ensemble_1990_2019);//x-y
+var percentDiff = difference.divide(ensemble_1990_2019); //(future - historic)/historic
+
+//--------------------------------------------------------------------------
+// Real world data
+//--------------------------------------------------------------------------
+
+// Make sure to read IMDAA's Terms and conditions if you plan on using this data outside of the course
+// IMDAA cannot be used commercially without prior written permission
+// https://rds.ncmrwf.gov.in/pdf/Data_License_Terms_v2.0_Aug2020_NCMRWF.pdf
+
+// Prepare to use IMDAA data by creating variables
+var real_world_1990_2019 = image.unmask(0);
+
+// Future real world count of days above threshold
+//Option 2: Apply percent difference, recommended for the "change in amount" variables for example change in mm or change in oC of max temp
+var percentDiff_plus1 = percentDiff.add(1);
+var real_world_2040_2069 = real_world_1990_2019.multiply(percentDiff_plus1);
+
+//--------------------------------------------------------------------------
+// Styles for maps
+//--------------------------------------------------------------------------
+
+//Center map on Nepal with a given (lon, lat, zoom)
+Map.setCenter(84, 28.5, 6); 
+
+// Nepal's border outlined in black
+var fc = ee.FeatureCollection('USDOS/LSIB_SIMPLE/2017')
+             .filter('country_na == "Nepal"');
+var styleParams = {
+  fillColor: '#FFFFFF00', //inside of the outline is transparent- adding 00 to the #FFFFFF hexcode makes it transparent
+  color: 'black',
+  width: 1.0,
+}
+var NepalBorder = fc.style(styleParams);
+
+// Temperature Count, 12 colors, 1 color per month + 1 for always
+var visTempCount = {
+  min: 100,
+  max: 500,
+  palette: [
+    '#778da9','#415a77','#0d1b2a'
+  ]
+};
+
+//
+
+Map.addLayer(real_world_2040_2069, visTempCount, 'Real world: 2040-2069');
+Map.addLayer(NepalBorder, {}, 'Border');
+
+
+function export_IMDAA(layer, name) {
+  Export.image.toDrive({
+    image: layer,
+    description: 'IMDAAimageToDrive',
+    fileNamePrefix: name, 
+    dimensions:'73x38',
+    region: ee.Geometry.BBox(79.8,26.2,88.4,30.6),
+    crs: 'EPSG:4326',
+  });
+}
+
+export_IMDAA(real_world_2040_2069,"Real_world_2040-2069_95p_Precip")
