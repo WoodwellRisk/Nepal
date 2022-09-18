@@ -133,7 +133,7 @@ The [DataFiles_Technical_Session_Day_1.zip](https://github.com/WoodwellRisk/Nepa
 
 [**Technical Session Day 1 - Cohort A - Sunday 11, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WU8ii0AKsH-CttOsODUb6imrKbYA-C0pM7oizVZzexhr4j_kznWCkV4P6WomoiSs.BP-4G4hFf35uD6bN)
 
-[**Technical Session Day 1 - Cohort B - Sunday 16, 2022**](https://woodwellclimate-org.zoom.us/rec/share/y0nrOm4qngBsyRpest7HeqPJmqwHKkFm2ubQR8Ze49ANmY2uFG4VOBjm0O3MBw_A.mfvtXVCueKLhsxQ0)
+[**Technical Session Day 1 - Cohort B - Friday 16, 2022**](https://woodwellclimate-org.zoom.us/rec/share/y0nrOm4qngBsyRpest7HeqPJmqwHKkFm2ubQR8Ze49ANmY2uFG4VOBjm0O3MBw_A.mfvtXVCueKLhsxQ0)
 
 Bishal Bharadwaj and Suman Shree Neupane facilitated the session for Cohort A. Bishal Bharadwaj and Dr. David Byrne facilitated the session for Cohort B. Darcy Glenn walked participants through:
 
@@ -163,6 +163,8 @@ Bishal Bharadwaj and Suman Shree Neupane facilitated the session for Cohort A. B
 
 [**Technical Session Day 1 - Cohort A - Monday 12, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WrwS4mY6x5M6biLkwqk5GamiecAulGlAv-PwfEpFtjALyzTw-BS7eLaz9D2ryZfs.4Ey-3KYsQR-mKNAB)
 
+[**Technical Session Day 1 - Cohort B - Saturday 17, 2022**](https://woodwellclimate-org.zoom.us/rec/share/oZnwJbJbztquM-TlP83aYtfVChIrZQ3VVIzOAHPoUlxjgEoqt9PLYtHFjV7VR4O_.0DMbeSZmdvlxgVCm)
+
 Bishal Bharadwaj and Suman Shree Neupane facilitated the session. Darcy Glenn walked participants through:
 
 * Applying a model ensemble's difference to reanalysis data to find future values
@@ -175,3 +177,4 @@ Dr. David Byrne presented:
 
 * How to import different types of population data from the catalog
 
+For Cohort B, Dr. David Byrne hosted a breakout room that walked participants who missed Day 1 through the introduction to Google Earth Engine and their first code.

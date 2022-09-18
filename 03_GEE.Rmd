@@ -22,3 +22,19 @@ Another useful guide can be found [here](https://www.linkedin.com/pulse/step-by-
 ## Upload Geotiff
 
 ![](HowToUploadGeoTiff.png)
+
+
+## Learn More
+
+**Geo For Good Summit** Oct 4-6, hosted by Google Earth Engine. Virtual attendance is free and sessions will be recorded. Learn more [here](https://earthoutreachonair.withgoogle.com/events/geoforgood22).
+
+
+**Beginner's Codebook** A fantastic resource that walk you through simple commands. Very easy to understand. Assumes no prior experience with GIS or coding. Check it out [here](https://developers.google.com/earth-engine/tutorials/community/beginners-cookbook).
+
+**Tutorials** There are self-paced [writen tutorials](https://developers.google.com/earth-engine/tutorials/tutorials) and [video tutorials](https://developers.google.com/earth-engine/tutorials/videos). [Community tutorials](https://developers.google.com/earth-engine/tutorials/community/explore) are also available. Google Earth Engine has also created potential [lesson plans](https://developers.google.com/earth-engine/tutorials/edu) geared towards universities.
+
+**Power Users** Some power users make their code available to the general public. If you click on the following links their code will show upper under your **Reader** drop down in the **Scripts** tab.
+
+A good intro: [https://code.earthengine.google.com/?accept_repo=users/gorelick/EE101-B](https://code.earthengine.google.com/?accept_repo=users/gorelick/EE101-B)
+
+Really interesting visuals: [https://code.earthengine.google.com/?accept_repo=users/gena/packages]
