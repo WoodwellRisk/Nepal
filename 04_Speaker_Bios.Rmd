@@ -31,6 +31,13 @@ Suman Shree Neupane is a wildlife and biodiversity conservation researcher. His 
 Suman completed my Masters in Wildlife Management and Biodiversity Conservation from School of Forestry and NRM. He graduated from Kathmandu Forestry College with a BSc in Forestry Science. He believes our research is a collective effort to make this planet a better place to live by making an impact on various domains.
 You can find more about Suman on:  [Home | Suman Shree Neupane](https://www.sumanshree.com.np/)  
 
+![](David_Byrne.jpg){width=300px}
+
+**Dr. David Byrne**
+
+Dr. David Byrne uses models, big data analysis, and mathematical tools like machine learning to understand the physical risks that climate change poses to vulnerable communities. He brings to bear his background in mathematics and expertise on sea level rise and storm surge as a member of Woodwell’s risk team.
+
+David earned his doctoral degree in physical oceanography, studying ways of improving real-time forecasts for dangerous storm surges. Since then, he has worked as a coastal ocean scientist at the National Oceanography Center in the UK, conducting coastal modeling, analyzing large datasets, and advocating for scientific best practices. Dr. Byrne is motivated by the desire to help vulnerable communities through transparent and accessible risk modeling.
 
 ![](Darcy_Glenn.jpeg){width=300px}
 
@@ -64,15 +71,10 @@ He serves on the board of the Spatial Informatics Group—Natural Assets Laborat
 
 
 
-![](David_Byrne.jpg){width=300px}
 
-**Dr. David Byrne**
-
-Dr. David Byrne uses models, big data analysis, and mathematical tools like machine learning to understand the physical risks that climate change poses to vulnerable communities. He brings to bear his background in mathematics and expertise on sea level rise and storm surge as a member of Woodwell’s risk team.
-
-David earned his doctoral degree in physical oceanography, studying ways of improving real-time forecasts for dangerous storm surges. Since then, he has worked as a coastal ocean scientist at the National Oceanography Center in the UK, conducting coastal modeling, analyzing large datasets, and advocating for scientific best practices. Dr. Byrne is motivated by the desire to help vulnerable communities through transparent and accessible risk modeling.
 
 ![](Damber_Bista.jpg){width=300px}
+
 **Damber Bista**
 
 Damber Bista is conservation ecologist by training, with research interest on understanding co-existence between human and wildlife. He brings in experience of over a decade in wildlife conservation. Most of his work is focused on red panda, a habitat specialist of the Himalaya. His work focuses on application-led research on the movement and spatial ecology of the montane mammals. Mr. Bista is currently a PhD candidate at the University of Queensland, where he is studying the red panda’s response to disturbances and habitat fragmentation in the human-dominated landscape.
