@@ -37,4 +37,4 @@ Another useful guide can be found [here](https://www.linkedin.com/pulse/step-by-
 
 A good intro: [https://code.earthengine.google.com/?accept_repo=users/gorelick/EE101-B](https://code.earthengine.google.com/?accept_repo=users/gorelick/EE101-B)
 
-Really interesting visuals: [https://code.earthengine.google.com/?accept_repo=users/gena/packages]
+
