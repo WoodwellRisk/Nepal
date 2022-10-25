@@ -198,9 +198,9 @@ Map within Google Earth Engine by **Keshav Dubedi** (top left), **Lalita Joshi**
 
 
 
-Geotiffs that have been exported and can now be imported into any mapping software by **Bipin Bhattarai.**
+Geotiffs that have been exported and can now be imported into any mapping software as demonstrated by **Bipin Bhattarai.**
 
-![](Bipin_Bhattarai_Map.jpg)
+![](Bipin_Bhattarai_Map.JPG)
 
 **Arbin Poudel** applied his previous experience with GIS to clip his geotiff to Nepal.
 
