@@ -186,3 +186,27 @@ For Cohort B, Dr. David Byrne hosted a breakout room that walked participants wh
 
 
 [**Technical Session Day 4 - Cohort A - Monday 19, 2022**](https://woodwellclimate-org.zoom.us/rec/share/bsTnEAKaQ_z1AZ41yPm5Btx74acOHiPQwP5GxpkmcDsygiMxjSdwqf8gWsho5jU4.0oj8lH3aNLBJQvhk)
+
+
+
+## Independant Maps {-}
+Participants created their own maps with the climate data.
+
+Map within Google Earth Engine by **Keshav Dubedi** (top left), **Lalita Joshi** (top right), **Damber Bista** (bottom left), and **Abash Paudel** (bottom right).
+
+![](All_screenshots.jpg)
+
+
+
+Geotiffs that have been exported and can now be imported into any mapping software by **Bipin Bhattarai.**
+
+![](Bipin_Bhattarai_Map.jpg)
+
+**Arbin Poudel** applied his previous experience with GIS to clip his geotiff to Nepal.
+
+![](Arbin_Poudel_Map.jpg)
+
+**Suraj Bist** applied his previous experience with GIS to enhance his final map.
+
+![](Suraj_Bist_Map.jpg)
+
