@@ -1,0 +1,55 @@
+# Introduction 
+
+## Goals of Training {-}
+
+*	Participants will be able to communicate how climate change will impact Province 1. 
+
+*	Participants will be able to work with climate model data and create their own maps and visualizations.
+
+*	Participants will be able to use the data to help tell their stories.
+
+## Learning Outcome {-}
+
+After the completion of the program, participants will be able to discuss risk maps and describe the process to their friends and community.
+
+<span style="color: #FF7733;">**Technical sessions ONLY**</span> - students will receive:
+
+* Regional climate model data for Nepal
+
+  +	Maximum temperature (daily) 1990-2019 and 2040-2069
+
+  +	Minimum temperature (daily) 1990-2019 and 2040-2069
+
+  +	Maximum wet-bulb temperature (daily) 1990-2019 and 2040-2069
+
+  +	Precipitation (daily) 1990-2019 and 2040-2069
+
+* Example codes that participants can use to further explore their own climate risk questions.
+
+## Participant Commitment {-}
+
+Participants are expected to attend all courses. If a participant cannot attend all courses, we kindly request that you do not enroll in the training to give the opportunity to other interested participants.
+
+All workshops will be held via Zoom. Please ensure you have access to the platform before the sessions.
+
+<span style="color: #FF7733;">**Technical sessions ONLY**</span> - Google Earth Engine is the only tool needed. Please follow the link below on how to ensure platform access:
+
+* [Google Earth Engine](https://woodwellrisk.github.io/Nepal_Workshops/google-earth-engine.html#google-earth-engine)
+
+  +	Requires a Google account
+
+  +	Free to access, but requires signing up beforehand
+
+## Future Participants {-}
+
+### Why wasn't I selected to join a session? {-}
+
+There was an overwhelming interest in *Reading and Creating Risk Assessment Maps*. Unfortunately, we were unable to include everyone who expressed interest. The session schedule was determined based on the days that corresponded with most people’s reported schedules. From there, participants were randomly selected using a [random number generator](https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php){target="_blank"}. We understand that this is not an ideal situation and are looking for ways to ensure everyone has the opportunity to participate in these workshops.
+
+### What opportunities will be available in the future? {-}
+
+All sessions will be recorded, and the [course materials](https://github.com/WoodwellRisk/Nepal_Workshops/upload/master/course_materials) will be available via GitHub. 
+
+We plan on having additional sessions in the future. If you wish to be informed when future sessions are announced, please sign up [here](https://forms.gle/RrYgas4oGmTZKpDP7){target="_blank"}. If you already signed up for the September sessions but were not placed in your preferred session, your email is already on the list of people to contact first when we have more information.
+
+Participants from the Institute of Forestry may also be able to act as a local resource.
