@@ -131,9 +131,9 @@ The [DataFiles_Technical_Session_Day_1.zip](https://github.com/WoodwellRisk/Nepa
 
 ## Videos {-}
 
-[**Technical Session Day 1 - Cohort A - Sunday 11, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WU8ii0AKsH-CttOsODUb6imrKbYA-C0pM7oizVZzexhr4j_kznWCkV4P6WomoiSs.BP-4G4hFf35uD6bN)
+[**Technical Session Day 1 - Cohort A - Sunday, September 11, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WU8ii0AKsH-CttOsODUb6imrKbYA-C0pM7oizVZzexhr4j_kznWCkV4P6WomoiSs.BP-4G4hFf35uD6bN)
 
-[**Technical Session Day 1 - Cohort B - Friday 16, 2022**](https://woodwellclimate-org.zoom.us/rec/share/y0nrOm4qngBsyRpest7HeqPJmqwHKkFm2ubQR8Ze49ANmY2uFG4VOBjm0O3MBw_A.mfvtXVCueKLhsxQ0)
+[**Technical Session Day 1 - Cohort B - Friday, September 16, 2022**](https://woodwellclimate-org.zoom.us/rec/share/y0nrOm4qngBsyRpest7HeqPJmqwHKkFm2ubQR8Ze49ANmY2uFG4VOBjm0O3MBw_A.mfvtXVCueKLhsxQ0)
 
 Bishal Bharadwaj and Suman Shree Neupane facilitated the session for Cohort A. Bishal Bharadwaj and Dr. David Byrne facilitated the session for Cohort B. Darcy Glenn walked participants through:
 
@@ -161,9 +161,9 @@ Bishal Bharadwaj and Suman Shree Neupane facilitated the session for Cohort A. B
 
 * Using the Explorer tool to find values at a specific location.
 
-[**Technical Session Day 1 - Cohort A - Monday 12, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WrwS4mY6x5M6biLkwqk5GamiecAulGlAv-PwfEpFtjALyzTw-BS7eLaz9D2ryZfs.4Ey-3KYsQR-mKNAB)
+[**Technical Session Day 1 - Cohort A - Monday, September 12, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WrwS4mY6x5M6biLkwqk5GamiecAulGlAv-PwfEpFtjALyzTw-BS7eLaz9D2ryZfs.4Ey-3KYsQR-mKNAB)
 
-[**Technical Session Day 1 - Cohort B - Saturday 17, 2022**](https://woodwellclimate-org.zoom.us/rec/share/oZnwJbJbztquM-TlP83aYtfVChIrZQ3VVIzOAHPoUlxjgEoqt9PLYtHFjV7VR4O_.0DMbeSZmdvlxgVCm)
+[**Technical Session Day 1 - Cohort B - Saturday, September 17, 2022**](https://woodwellclimate-org.zoom.us/rec/share/oZnwJbJbztquM-TlP83aYtfVChIrZQ3VVIzOAHPoUlxjgEoqt9PLYtHFjV7VR4O_.0DMbeSZmdvlxgVCm)
 
 Bishal Bharadwaj and Suman Shree Neupane facilitated the session. Darcy Glenn walked participants through:
 
@@ -180,12 +180,12 @@ Dr. David Byrne presented:
 For Cohort B, Dr. David Byrne hosted a breakout room that walked participants who missed Day 1 through the introduction to Google Earth Engine and their first code.
 
 
-[**Technical Session Day 3 - Cohort A - Sunday 18, 2022**](https://woodwellclimate-org.zoom.us/rec/share/noJdOkg-S91VO0_cD1M-GD_ZxTz6nLPj9ky0EI4wD_ODRr81BUHucYx_oQEZng0e.V3r_y0CIzlWIyHJj)
+[**Technical Session Day 3 - Cohort A - Sunday, September 18, 2022**](https://woodwellclimate-org.zoom.us/rec/share/noJdOkg-S91VO0_cD1M-GD_ZxTz6nLPj9ky0EI4wD_ODRr81BUHucYx_oQEZng0e.V3r_y0CIzlWIyHJj)
 
-[**Technical Session Day 3 - Cohort B - Friday 23, 2022**](https://woodwellclimate-org.zoom.us/rec/share/UAUha5qP6T2YWKplenLdZHz2LHmtu364YRzfhCq0GG2U1dC6fuiYzTPfQfoatPk8.agPblFMbZ6OIyhL7)
+[**Technical Session Day 3 - Cohort B - Friday, September 23, 2022**](https://woodwellclimate-org.zoom.us/rec/share/UAUha5qP6T2YWKplenLdZHz2LHmtu364YRzfhCq0GG2U1dC6fuiYzTPfQfoatPk8.agPblFMbZ6OIyhL7)
 
 
-[**Technical Session Day 4 - Cohort A - Monday 19, 2022**](https://woodwellclimate-org.zoom.us/rec/share/bsTnEAKaQ_z1AZ41yPm5Btx74acOHiPQwP5GxpkmcDsygiMxjSdwqf8gWsho5jU4.0oj8lH3aNLBJQvhk)
+[**Technical Session Day 4 - Cohort A - Monday, September 19, 2022**](https://woodwellclimate-org.zoom.us/rec/share/bsTnEAKaQ_z1AZ41yPm5Btx74acOHiPQwP5GxpkmcDsygiMxjSdwqf8gWsho5jU4.0oj8lH3aNLBJQvhk)
 
 
 
