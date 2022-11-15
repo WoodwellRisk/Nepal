@@ -1,8 +1,0 @@
-introduction
-general-sessions
-technical-sessions
-google-earth-engine
-sign-up
-upload-geotiff
-learn-more
-speaker-bios

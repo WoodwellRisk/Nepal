@@ -161,9 +161,15 @@ Bishal Bharadwaj and Suman Shree Neupane facilitated the session for Cohort A. B
 
 * Using the Explorer tool to find values at a specific location.
 
+<<<<<<< Updated upstream
 [**Technical Session Day 1 - Cohort A - Monday, September 12, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WrwS4mY6x5M6biLkwqk5GamiecAulGlAv-PwfEpFtjALyzTw-BS7eLaz9D2ryZfs.4Ey-3KYsQR-mKNAB)
 
 [**Technical Session Day 1 - Cohort B - Saturday, September 17, 2022**](https://woodwellclimate-org.zoom.us/rec/share/oZnwJbJbztquM-TlP83aYtfVChIrZQ3VVIzOAHPoUlxjgEoqt9PLYtHFjV7VR4O_.0DMbeSZmdvlxgVCm)
+=======
+[**Technical Session Day 2 - Cohort A - Monday 12, 2022**](https://woodwellclimate-org.zoom.us/rec/share/WrwS4mY6x5M6biLkwqk5GamiecAulGlAv-PwfEpFtjALyzTw-BS7eLaz9D2ryZfs.4Ey-3KYsQR-mKNAB)
+
+[**Technical Session Day 2 - Cohort B - Saturday 17, 2022**](https://woodwellclimate-org.zoom.us/rec/share/oZnwJbJbztquM-TlP83aYtfVChIrZQ3VVIzOAHPoUlxjgEoqt9PLYtHFjV7VR4O_.0DMbeSZmdvlxgVCm)
+>>>>>>> Stashed changes
 
 Bishal Bharadwaj and Suman Shree Neupane facilitated the session. Darcy Glenn walked participants through:
 

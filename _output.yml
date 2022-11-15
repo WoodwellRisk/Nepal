@@ -2,3 +2,7 @@ bookdown::gitbook:
   config:
     fontsettings:
       theme: white
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Technical Transfer</a></li>

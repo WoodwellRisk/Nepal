@@ -3,8 +3,10 @@ title: "Transfer of Knowledge: Reading and Creating Risk Assessment Maps"
 author: "Institute of Forestry and Natural Resource Management (NRM), Tribhuvan University and Woodwell Climate Research Center"
 site: bookdown::bookdown_site
 documentclass: book
-#output:
+output:
   #bookdown::gitbook: default
+  html_document:
+    theme: yeti
 ---
 # Introduction 
 
