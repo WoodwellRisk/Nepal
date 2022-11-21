@@ -1,6 +1,6 @@
 # Participant Maps
 
-## September Workshops
+## September Workshops {-}
 Participants created their own maps with the climate data.
 
 Map within Google Earth Engine by **Keshav Dubedi** (top left), **Lalita Joshi** (top right), **Damber Bista** (bottom left), and **Abash Paudel** (bottom right).
