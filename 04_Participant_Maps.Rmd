@@ -1,0 +1,21 @@
+# Participant Maps
+
+## September Workshops
+Participants created their own maps with the climate data.
+
+Map within Google Earth Engine by **Keshav Dubedi** (top left), **Lalita Joshi** (top right), **Damber Bista** (bottom left), and **Abash Paudel** (bottom right).
+
+![](All_screenshots.jpg)
+
+Geotiffs that have been exported and can now be imported into any mapping software as demonstrated by **Bipin Bhattarai.**
+
+![](Bipin_Bhattarai_Map.JPG)
+
+**Arbin Poudel** applied his previous experience with GIS to clip his geotiff to Nepal.
+
+![](Arbin_Poudel_Map.jpg)
+
+**Suraj Bist** applied his previous experience with GIS to enhance his final map.
+
+![](Suraj_Bist_Map.jpg)
+
