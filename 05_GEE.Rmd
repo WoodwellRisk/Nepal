@@ -1,6 +1,6 @@
 # Google Earth Engine
 
-## Sign Up {-}
+## How To Sign Up {-}
 
 Sign up as soon as possible. Google Earth Engine will be needed for the technical sessions. It is not required for the General Session.
 
