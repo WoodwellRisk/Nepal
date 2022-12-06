@@ -1,6 +1,6 @@
 # Speaker Bios
 
-## September Workshops {-}
+## September Workshops {-} 
 ### Hosts {-}
 
 ![](Rajesh_Rai.png){width=300px}
