@@ -18,6 +18,11 @@ If you don't have access or are rejected please reach out to **dglenn@woodwellcl
 
 Another useful guide can be found [here](https://www.linkedin.com/pulse/step-by-step-create-your-google-earth-engine-account-khang-vu-tien){target="_blank"}.
 
+## Get Data for Workshop {-}
+
+Download data for Tuesday, January 17 [here](https://github.com/WoodwellRisk/Nepal_Workshops/blob/master/data/DataFiles-Technical_Session_Day_1.zip).
+
+Download data for Thursday, January 19 [here](https://github.com/WoodwellRisk/Nepal_Workshops/tree/master/data/DataFiles-Technical_Session_Day_3). You only to download 1 folder worth of data. For example: Heat/35oC **OR** Cold/0oC **OR** Precipitation/Number_Of_Events_Considered_Extreme.
 
 ## Upload Geotiff {-}
 
