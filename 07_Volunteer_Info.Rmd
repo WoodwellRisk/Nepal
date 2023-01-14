@@ -1,2 +1,146 @@
-# Volunteer Infomation
-Information for volunteers coming soon.
+# Volunteer Information
+## Schedule of Events {-}
+Items in <span style="color: #FF7733;">**orange**</span> will be led by volunteers
+
+**Day 1:**
+
+0:00	Wait for people to enter
+
+0:05	Bishal Welcomes
+
+0:10	Rajesh Introduces TU
+
+0:15 	Darcy introduces Woodwell
+
+0:20 	Fancy speaker
+
+0:30 	Darcy 3 aspects of risk
+
+0:40	Itahari Maps
+
+1:00 	Non-Itahari maps (heat, temperature, etc.)
+
+1:15	GEE demo (Abash-KILA demonstration we didn't get to)
+
+1:40	Maps from last time & remind people who don’t want to continue on to fill out the exit survey
+
+1:45	Sign up for Google Earth Engine as a group
+
+--------------------------------------------------------------
+
+**Day 2:**
+
+0:00	Wait for people to enter
+
+0:05	Send anyone who hasn’t signed up for GEE into a separate Zoom room
+
+0:10	Darcy model ensembles importance
+
+0:20	Intro to GEE features and dashboard (Abash- your version of video)
+
+0:35 	Download 95th percentile precipitation 
+
+0:40 	Demonstrate how to upload data (EVERYONE JUST WATCHES!) 
+
+<span style="color: #FF7733;">0:45 		Break into Zoom breakout rooms</span>
+
+<span style="color: #FF7733;">0:50 		Breakout rooms upload the data</span>
+
+1:20	Start coding (aim to get to combining 3 models into an ensemble)
+
+<span style="color: #FF7733;">1:25		Break into Zoom breakout rooms</span>
+
+<span style="color: #FF7733;">1:30		Code in groups</span> 
+
+1:45 	Map pretty-fication code
+
+1:55	Reminder of Video location, exit survey if participant can’t make another class
+
+--------------------------------------------------------------
+
+**Day 3:**
+
+0:00	Wait for people to enter
+
+0:05	Send anyone who hasn’t signed up for GEE into a separate Zoom room
+
+0:05 	Send anyone who didn’t upload data into a separate Zoom
+
+0:10	Darcy models are good at trends, apply trends to real world data
+
+0:20	Code the percent difference & apply to real world data
+
+<span style="color: #FF7733;">0:25 		Break into Zoom rooms</span>
+
+<span style="color: #FF7733;">0:30		Code in groups</span> 
+
+0:40 	View maps
+
+0:45 	Adding in bonus layers from catalog 
+
+<span style="color: #FF7733;">0:55		Break into Zoom rooms </span>
+
+<span style="color: #FF7733;">1:00		In groups add layers - extra time, explore other layers</span> 
+
+1:15	Show how to export climate data
+
+<span style="color: #FF7733;">1:20		Break into Zoom rooms </span>
+
+<span style="color: #FF7733;">1:25		Groups export data </span>
+
+1:45	Confirm that exported data will be greyscale
+
+1:47	Give an overview of data choices for next day, begin uploads for next day
+
+1:55	Reminder of Video location, exit survey if participant can’t make another class
+
+--------------------------------------------------------------
+
+**Day 4:**
+
+0:00	Wait for people to enter
+
+0:05	Send anyone who hasn’t signed up for GEE into a separate Zoom room
+
+0:05 	Send anyone who didn’t upload data into a separate Zoom
+
+0:10 	Darcy resolution difficulties (careful of mountains!)
+
+0:15	Darcy count of days you will need to do just difference, not % difference
+	
+0:20	Transition to final maps
+	
+<span style="color: #FF7733;">0:25		Break into groups by variable</span>
+
+<span style="color: #FF7733;">0:30 		Make maps in groups</span>
+
+1:30	How to export reminder
+
+1:40	Bishal final words
+
+1:50 	Darcy letters for those who send her a screenshot of your final map or the exported final AND a screenshot of the exit survey completion page or a solemn promise that you completed it for your letter. Maps display location. Videos’ location. Thank you.
+
+
+
+## Volunteer Led Breakout Sessions {-}
+
+**Day 1:** Nothing! Yay!
+
+**Day 2, Breakout Session 1:** This will be about uploading files. Here's a video to remind you what you will be doing. Darcy will all walk everyone through it as a group so you are reminded the day of.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_gN7ZIS0oYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Day 2, Breakout Session 2:** This will be the first day of coding. If you get stuck remember all the code can be found at https://github.com/WoodwellRisk/Nepal_Workshops/tree/master/data/scripts and you can just copy and paste. Darcy will do this first with everyone, so you will get a chance to see it again.
+
+**There will be a YouTube video shortly**
+
+**Day 3, Breakout Session 1:** In this session we will calcuated the percent difference between the future and past. Then we will apply that difference to real world data. Darcy will do this first with everyone, so you will get a chance to see it again.
+
+**Day 3, Breakout Session 1:** In this session we will export our data. We will do this first with everyone, so you will get a chance to see it again.
+
+**Day 4, Breakout Session 1:** Your group will work together to make a map using another variable. Don't worry there will be people "jumping" between groups to help.
+
+
+
+
+
