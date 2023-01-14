@@ -1,0 +1,22 @@
+/--------------------------------------------------------------------------
+// Climate model data
+//--------------------------------------------------------------------------
+
+// Prepare to use REMO data by defining the images as specific variables
+var model1_1990_2019=image2.unmask(0);
+var model1_2040_2069=image3.unmask(0);
+var model2_1990_2019=image4.unmask(0);
+var model2_2040_2069=image5.unmask(0);
+var model3_1990_2019=image6.unmask(0);
+var model3_2040_2069=image7.unmask(0);
+
+//✁.........................................................................
+
+
+// Group all 1990-2019 and 2040-2069 variables and find the median
+var ensemble_1990_2019 = ee.ImageCollection([model1_1990_2019, model2_1990_2019, model3_1990_2019]).median();
+Map.addLayer(ensemble_1990_2019, {}, 'Model Ensemble: 1990-2019'); //Map.addLayer(variable to be show, {visualization directions}, name of layer)
+
+var ensemble_2040_2069 = ee.ImageCollection([model1_2040_2069, model2_2040_2069, model3_2040_2069]).median();
+Map.addLayer(ensemble_2040_2069, {}, 'Model Ensemble: 2040-2069');
+
