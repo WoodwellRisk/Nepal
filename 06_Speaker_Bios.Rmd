@@ -1,9 +1,46 @@
 # Speaker Bios
 
 ## January Workshops {-}
-Abash Paudel
+### Hosts {-}
+
+![](Bishal_Bharadwaj.png){width=300px}
+
+**Bishal Bharadwaj**
+
+Bishal Bharadwaj is an economic geographer by orientation. Bishal is currently a  postdoctoral research fellow at Net Zero Australia, UQ Dow Centre for Sustainable Engineering Innovation, University of Queensland. Bishal is engaged in Hydrogen energy related project at School of Chemical Engineering, UQ. 
+
+Bishal has also served as section officer and Undersecretary in civil service of Nepal. Bishal studied MSc Climate Change from UCL, London in 2016 and is about to complete his PhD from University of Queensland. Bishal is interested in evaluating environmental policies to find strategies to make sure environmental policies are effective and the impacts are equitable. For additional information about Bishal, visit  [www.bishalbharadwaj.com](www.bishalbharadwaj.com). 
+
+![](Abash__Paudel.png){width=300px}
+
+**Abash Paudel**
 
 Abash Paudel has received both his MSc General Forestry and BS Forest Ecology from Tribhuvan University’s Institute of Forestry. He has worked on a variety of projects including the Impact of Climate Variability on Snow Cover in Annaurna Conservation Area. Mr. Paudel is well versed in a variety of geospatial tools including Google Earth Engine and GIS.
+
+**Darcy Glenn**
+
+Darcy Glenn utilizes climate modeling to provide information to decision-makers about the near-term impacts of climate change as part of Woodwell Climate Research Center’s Risk program. She works with both municipalities and business investors who aim to adapt to the changing climate.
+
+Previously,  Darcy worked for two local governments:  Park City, Utah and Summit County, Utah. There she had the privilege to work on the “Most Ambitious Climate Goals in North America” allowing her to work on carbon accounting, wildfire adaptation, regenerative agriculture, and electrification policy. She received her MSc in Climate Change from University College London.
+
+
+### Volunteers {-}
+
+**Bipin Bhattarai**
+
+**Sraddha Gurung**
+
+**Suraj Prasad Bist**
+
+
+### Speakers {-}
+
+
+
+
+
+
+
 
 ## September Workshops {-} 
 ### Hosts {-}

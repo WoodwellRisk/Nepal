@@ -12,7 +12,13 @@ All short tutorials can be found on [YouTube](https://www.youtube.com/watch?v=7j
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kJgaVwKbTO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## January Workshops {-}
-To be updated post workshop.
+Day 1 - January 16, 2023 (File processing...)
+
+Day 2 - January 17, 2023
+
+Day 3 - January 18, 2023
+
+Day 4 - January 19, 2023
 
 ## September Workshops {-}
 ### General Session {-}
