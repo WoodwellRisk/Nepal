@@ -1,5 +1,10 @@
 # Speaker Bios
 
+## January Workshops {-}
+Abash Paudel
+
+Abash Paudel has received both his MSc General Forestry and BS Forest Ecology from Tribhuvan University’s Institute of Forestry. He has worked on a variety of projects including the Impact of Climate Variability on Snow Cover in Annaurna Conservation Area. Mr. Paudel is well versed in a variety of geospatial tools including Google Earth Engine and GIS.
+
 ## September Workshops {-} 
 ### Hosts {-}
 
