@@ -1,14 +1,14 @@
-/--------------------------------------------------------------------------
+//--------------------------------------------------------------------------
 // Climate model data
 //--------------------------------------------------------------------------
 
 // Prepare to use REMO data by defining the images as specific variables
-var model1_1990_2019=image2.unmask(0);
-var model1_2040_2069=image3.unmask(0);
-var model2_1990_2019=image4.unmask(0);
-var model2_2040_2069=image5.unmask(0);
-var model3_1990_2019=image6.unmask(0);
-var model3_2040_2069=image7.unmask(0);
+var model1_1990_2019=image.unmask(0);
+var model1_2040_2069=image2.unmask(0);
+var model2_1990_2019=image3.unmask(0);
+var model2_2040_2069=image4.unmask(0);
+var model3_1990_2019=image5.unmask(0);
+var model3_2040_2069=image6.unmask(0);
 
 //✁.........................................................................
 
