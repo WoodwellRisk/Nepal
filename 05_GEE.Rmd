@@ -40,9 +40,11 @@ Scripts for both days are found [here](https://github.com/WoodwellRisk/Nepal_Wor
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_gN7ZIS0oYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Learn More {-}
+**Abash's Links**
+Coming soon
 
-**Geo For Good Summit** hosted by Google Earth Engine every October. Virtual attendance is free and sessions will be recorded. Learn more [here](https://earthoutreachonair.withgoogle.com).
 
+**Intro to Coding** An excellent quickstart guide for [javascript](https://learnxinyminutes.com/docs/javascript/), the language used in Google Earth Engine. If you are intereset in other programming languages the website [Learn X in Y Minutes](https://learnxinyminutes.com)is an easy place to start. 
 
 **Beginner's Codebook** A fantastic resource that walk you through simple commands. Very easy to understand. Assumes no prior experience with GIS or coding. Check it out [here](https://developers.google.com/earth-engine/tutorials/community/beginners-cookbook).
 
@@ -52,4 +54,5 @@ Scripts for both days are found [here](https://github.com/WoodwellRisk/Nepal_Wor
 
 A good intro: [https://code.earthengine.google.com/?accept_repo=users/gorelick/EE101-B](https://code.earthengine.google.com/?accept_repo=users/gorelick/EE101-B)
 
+**Geo For Good Summit** hosted by Google Earth Engine every October. Virtual attendance is free and sessions will be recorded. Learn more [here](https://earthoutreachonair.withgoogle.com).
 
