@@ -40,8 +40,21 @@ Scripts for both days are found [here](https://github.com/WoodwellRisk/Nepal_Wor
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_gN7ZIS0oYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Learn More {-}
-**Abash's Links**
-Coming soon
+**Abash's Links:**
+
+- Video of deforestation in Brazil [https://earthengine.google.com/timelapse/?location=rondonia](http://earthenginepartners.appspot.com/science-2013-global-forest) 
+
+- Global Forest Change Map, Hansen et al [http://earthenginepartners.appspot.com/science-2013-global-forest](http://earthenginepartners.appspot.com/science-2013-global-forest)
+
+- Earth Engine's Graphical User Interface (Explorer) [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace) 
+
+- Earth Engine's Application Program Interface (Code Editor)[https://code.earthengine.google.com/](https://code.earthengine.google.com/) 
+
+- Recommended Learning Materials   	[https://developers.google.com/earthengine/getstarted](https://developers.google.com/earthengine/getstarted)  	
+
+- Recommended Learning Materials  [https://developers.google.com/earthengine/playground](https://developers.google.com/earthengine/playground)   	
+
+- Recommended Learning Materials  [https://gis.stackexchange.com/](https://gis.stackexchange.com/)
 
 
 **Intro to Coding** An excellent quickstart guide for [javascript](https://learnxinyminutes.com/docs/javascript/), the language used in Google Earth Engine. If you are intereset in other programming languages the website [Learn X in Y Minutes](https://learnxinyminutes.com)is an easy place to start. 
