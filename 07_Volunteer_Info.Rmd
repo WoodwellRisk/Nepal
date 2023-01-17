@@ -145,6 +145,8 @@ Items in <span style="color: #FF7733;">**orange**</span> will be led by voluntee
 
 **Day 3, Breakout Session 2:** In this session we will export our data. We will do this first with everyone, so you will get a chance to see it again.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KZ7NBAaQdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Day 4, Breakout Session 1:** Your group will work together to make a map using another variable. Don't worry there will be people "jumping" between groups to help.
 
 
