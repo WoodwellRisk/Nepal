@@ -1,0 +1,27 @@
+//--------------------------------------------------------------------------
+// Styles for maps
+//--------------------------------------------------------------------------
+
+//Center map on Nepal with a given (lon, lat, zoom)
+Map.setCenter(84, 28.5, 6); 
+
+// Nepal's border outlined in black
+var fc = ee.FeatureCollection('USDOS/LSIB_SIMPLE/2017')
+             .filter('country_na == "Nepal"');
+var styleParams = {
+  fillColor: '#FFFFFF00', //inside of the outline is transparent- adding 00 to the #FFFFFF hexcode makes it transparent
+  color: 'black',
+  width: 1.0,
+}
+var NepalBorder = fc.style(styleParams);
+
+// Precipitation visualization 
+// Selected colors using https://coolors.co/palettes/trending
+// Values you set here change the why colors are displayed, they won't affect value of data when you selected it with the inspector
+var visPrecip = {
+  min: 100, //This value is value that will be associated with the first color (#80ced7)
+  max: 500,//This value is value that will be associated with the final color (#003249)
+  palette: [
+    '#80ced7','#007ea7','#003249' //Middle value will represent the number 1/2 way between the min and max you set above
+  ]
+};
