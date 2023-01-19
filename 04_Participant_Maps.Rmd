@@ -1,4 +1,10 @@
 # Participant Maps
+## September Workshops {-}
+
+Geotiffs that have been exported and can now be imported into any mapping software as demonstrated by **Bishwabandu Acharya**
+
+![](Bishwabandhu_Archarya_Map.png)
+
 
 ## September Workshops {-}
 Participants created their own maps with the climate data.
