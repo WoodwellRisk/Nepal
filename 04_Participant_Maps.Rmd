@@ -1,10 +1,13 @@
 # Participant Maps
 ## September Workshops {-}
 
-Geotiffs that have been exported and can now be imported into any mapping software as demonstrated by **Bishwabandu Acharya**
+Geotiffs that have been exported and can now be imported into any mapping software as demonstrated by **Bishwabandu Acharya** who looked at extreme rainfall event.
 
 ![](Bishwabandhu_Archarya_Map.png)
 
+**Sushil Ojha** considered the number of days when the coldest temperature was below 5^{o}C and was also able to export his data for use in other mapping soft
+
+![](Sushil_Ojha_Map.PNG)
 
 ## September Workshops {-}
 Participants created their own maps with the climate data.
