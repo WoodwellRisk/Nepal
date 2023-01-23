@@ -43,18 +43,31 @@ Scripts for both days are found [here](https://github.com/WoodwellRisk/Nepal_Wor
 **Abash's Links:**
 
 - Video of deforestation in Brazil [https://earthengine.google.com/timelapse/?location=rondonia](http://earthenginepartners.appspot.com/science-2013-global-forest) 
-
 - Global Forest Change Map, Hansen et al [http://earthenginepartners.appspot.com/science-2013-global-forest](http://earthenginepartners.appspot.com/science-2013-global-forest)
-
 - Earth Engine's Graphical User Interface (Explorer) [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace) 
-
 - Earth Engine's Application Program Interface (Code Editor)[https://code.earthengine.google.com/](https://code.earthengine.google.com/) 
-
-- Recommended Learning Materials   	[https://developers.google.com/earthengine/getstarted](https://developers.google.com/earthengine/getstarted)  	
-
-- Recommended Learning Materials  [https://developers.google.com/earthengine/playground](https://developers.google.com/earthengine/playground)   	
-
+- Recommended Learning Materials   	[https://developers.google.com/earthengine/getstarted](https://developers.google.com/earthengine/getstarted)
+- Recommended Learning Materials  [https://developers.google.com/earthengine/playground](https://developers.google.com/earthengine/playground)
 - Recommended Learning Materials  [https://gis.stackexchange.com/](https://gis.stackexchange.com/)
+- Data for Nepal [http://tethys.icimod.org/apps/flashfloodnp/](http://tethys.icimod.org/apps/flashfloodnp/)
+- Data for Nepal [https://rds.icimod.org/](https://rds.icimod.org/)[http://tethys.icimod.org/apps/flashfloodnp/](http://tethys.icimod.org/apps/flashfloodnp/)
+- Data for Nepal [https://rds.icimod.org/](https://rds.icimod.org/)
+
+**Dr. Niraula', PhD's links**
+
+- Data for Nepal [https://servir.icimod.org/thematic-focus/water-resources-and-hydro-climatic-disasters/](https://servir.icimod.org/thematic-focus/water-resources-and-hydro-climatic-disasters/)
+- Data for Nepal [https://servir.icimod.org/news/building-better-land-data-in-the-hindu-kush-himalaya/](https://servir.icimod.org/news/building-better-land-data-in-the-hindu-kush-himalaya/)
+
+
+**Raja Ram Aryal Link's**
+
+- [https://www.collect.earth/](https://www.collect.earth/)
+- [https://frtc.gov.np/uploads/files/Study%20Report%20Inner-final.pdf](https://frtc.gov.np/uploads/files/Study%20Report%20Inner-final.pdf)
+- [https://training.sig-gis.com/NEPALworkshopAE/?fbclid=IwAR0RpTv_yzsAAjldp-dWQn25sIYXygk56FH_1ihwdzPaXgh7hgbStJSKOgY#aforestmapping](https://training.sig-gis.com/NEPALworkshopAE/?fbclid=IwAR0RpTv_yzsAAjldp-dWQn25sIYXygk56FH_1ihwdzPaXgh7hgbStJSKOgY#aforestmapping)
+- [https://sepal.io/](https://sepal.io/)
+- [https://docs.sepal.io/en/latest/modules/dwn/seplan.html](https://docs.sepal.io/en/latest/modules/dwn/seplan.html)
+
+
 
 
 **Intro to Coding** An excellent quickstart guide for [javascript](https://learnxinyminutes.com/docs/javascript/), the language used in Google Earth Engine. If you are intereset in other programming languages the website [Learn X in Y Minutes](https://learnxinyminutes.com)is an easy place to start. 
