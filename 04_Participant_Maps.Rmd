@@ -1,5 +1,5 @@
 # Participant Maps
-## September Workshops {-}
+## January Workshops {-}
 
 Geotiffs that have been exported and can now be imported into any mapping software as demonstrated by **Bishwabandu Acharya** who looked at extreme rainfall event.
 
