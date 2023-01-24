@@ -24,18 +24,10 @@ Darcy Glenn utilizes climate modeling to provide information to decision-makers 
 Previously,  Darcy worked for two local governments:  Park City, Utah and Summit County, Utah. There she had the privilege to work on the “Most Ambitious Climate Goals in North America” allowing her to work on carbon accounting, wildfire adaptation, regenerative agriculture, and electrification policy. She received her MSc in Climate Change from University College London.
 
 
-### Volunteers {-}
-
-**Bipin Bhattarai**
-
-**Sraddha Gurung**
-
-**Suraj Prasad Bist**
-
-
 ### Speakers {-}
 
 **Rabin Raj Niraula, PhD**
+
 Dr. Rabin Raj Niraula received his PhD in Water Governance and Climate Change Vulnerability from Kathmandu University. He has made significant contribution in Nepal's NGO space working for Heifer International and formerly HELVETAS Swiss Intercooperation Nepal. 
 
 During Rabin's talk on [Day 2](https://woodwellclimate-org.zoom.us/rec/share/QHwpgT8Se2hG-0Ms3DwhWyABGLEFKCvAOTo44TaDYrGyRKazFKkIuXxHcRSYA_ZI._3pGkAWWX0zmpMxL), he offered the following helpful resources for people learning Google Earth Engine.
@@ -59,9 +51,11 @@ Rajesh has worked in community based forestry programs where he has been involve
 
 Rajesh completed MSc in Forestry,  and Forest Ecology and Management from University of Eastern Finland, and Albert-Ludwigs-Universität Freiburg im Briesgau. Rajesh received his PhD in Environmental Economics from Deakin University, Australia.
 
+![](Raja_Ram_Aryal.JPG){width=300px}
+
 **Raja Ram Aryal**
 
-Raja Ram Aryal is a PhD candidate at the University of Queensland. He has previous worked for Nepal's Department of Forest Research and Survey first as a Ranger and then as a Assistant Forest Research Officer. He has worked on landcover classification in Nepal.
+Raja Ram Aryal is a PhD student at the University of Queensland. He has previously worked for Forest Research and Training Centre under the Ministry of Forests and Environment as a Ranger since 2007 and then promoted as an Assistant Forest Research Officer. He has worked on landcover classification and forest degradation assessment in Nepal.
 
 During Raja's talk on [Day 4](https://woodwellclimate-org.zoom.us/rec/share/2gjpb5KPL33fVKiYuRB_pSNymZTbGdU29r25VL6olwMlJVcaW3S7OM8szAlPZdm2.2UI7An5_1laqh3rL), he offered the following helpful resources. 
 
@@ -72,6 +66,13 @@ During Raja's talk on [Day 4](https://woodwellclimate-org.zoom.us/rec/share/2gjp
 - [https://docs.sepal.io/en/latest/modules/dwn/seplan.html](https://docs.sepal.io/en/latest/modules/dwn/seplan.html)
 
 
+### Volunteers {-}
+
+**Bipin Bhattarai**
+
+**Sraddha Gurung**
+
+**Suraj Prasad Bist**
 
 
 
